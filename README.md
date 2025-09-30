@@ -1,2 +1,1 @@
-# wallpapers
-CAPlayground Wallpapers.
+# CAPlayground Wallpapers
