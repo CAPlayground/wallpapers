@@ -1,0 +1,66 @@
+name: Convert Videos to GIFs
+on:
+  push:
+    paths:
+      - 'previews/video/*.mp4'
+      - 'previews/video/*.mov'
+    branches:
+      - dev
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Cache FFmpeg
+        id: cache-ffmpeg
+        uses: actions/cache@v3
+        with:
+          path: /usr/bin/ffmpeg
+          key: ${{ runner.os }}-ffmpeg
+
+      - name: Install FFmpeg
+        if: steps.cache-ffmpeg.outputs.cache-hit != 'true'
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Convert videos to GIFs
+        id: convert
+        run: |
+          found_videos=false
+          for video in previews/video/*.{mp4,mov}; do
+            if [[ -f "$video" ]]; then
+              base_dir="$(dirname "$(dirname "$video")")"
+              output_dir="${base_dir}/gif"
+              mkdir -p "$output_dir"
+              filename=$(basename "$video")
+              filename_noext="${filename%.*}"
+              output_gif="${output_dir}/${filename_noext}.gif"
+              
+              # Only convert if GIF doesn't exist
+              if [[ ! -f "$output_gif" ]]; then
+                found_videos=true
+                echo "Converting $video to GIF..."
+                ffmpeg -i "$video" \
+                  -vf "fps=15,scale=320:-1:flags=lanczos" \
+                  -c:v gif \
+                  "$output_gif"
+              else
+                echo "Skipping $video - GIF already exists"
+              fi
+            fi
+          done
+          echo "found_videos=$found_videos" >> $GITHUB_OUTPUT
+
+      - name: Create Pull Request
+        if: steps.convert.outputs.found_videos == 'true'
+        id: create-pr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: "chore: convert videos to GIFs"
+          title: "Convert videos to GIFs"
+          body: "Automatically converted video previews to GIF format"
+          branch: video-to-gif
+          delete-branch: true

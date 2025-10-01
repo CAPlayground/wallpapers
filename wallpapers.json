@@ -1,0 +1,12 @@
+{
+    "base_url": "https://raw.githubusercontent.com/CAPlayground/wallpapers/refs/heads/main/",
+    "wallpapers": [
+        {
+            "name": "GitHub",
+            "creator": "enkei64",
+            "description": "GitHub",
+            "file": "wallpapers/GitHub.tendies",
+            "preview": "previews/GitHub.gif"
+        }
+    ]
+}
