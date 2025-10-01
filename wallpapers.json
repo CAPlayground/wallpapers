@@ -21,6 +21,13 @@
             "description": "south",
             "file": "wallpapers/Kanyay.tendies",
             "preview": "previews/Kanyay.gif"
+        },
+        {
+            "name": "khanyeha",
+            "creator": "squair.dev",
+            "description": "whest",
+            "file": "wallpapers/khanyeha.tendies",
+            "preview": "previews/khanyeha.gif"
         }
     ]
 }
