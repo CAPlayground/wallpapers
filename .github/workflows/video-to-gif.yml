@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Cache FFmpeg
         id: cache-ffmpeg
@@ -54,13 +56,11 @@ jobs:
           done
           echo "found_videos=$found_videos" >> $GITHUB_OUTPUT
 
-      - name: Create Pull Request
+      - name: Commit and push changes
         if: steps.convert.outputs.found_videos == 'true'
-        id: create-pr
-        uses: peter-evans/create-pull-request@v5
-        with:
-          commit-message: "chore: convert videos to GIFs"
-          title: "Convert videos to GIFs"
-          body: "Automatically converted video previews to GIF format"
-          branch: video-to-gif
-          delete-branch: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: convert videos to GIFs"
+          git push origin dev
