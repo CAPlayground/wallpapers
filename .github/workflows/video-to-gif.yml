@@ -8,6 +8,9 @@ on:
       - dev
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -15,52 +18,63 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-
-      - name: Cache FFmpeg
-        id: cache-ffmpeg
-        uses: actions/cache@v3
-        with:
-          path: /usr/bin/ffmpeg
-          key: ${{ runner.os }}-ffmpeg
+          persist-credentials: true
 
       - name: Install FFmpeg
-        if: steps.cache-ffmpeg.outputs.cache-hit != 'true'
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
 
       - name: Convert videos to GIFs
         id: convert
+        shell: bash
         run: |
+          set -euo pipefail
+          shopt -s nullglob
+
           found_videos=false
-          for video in previews/video/*.{mp4,mov}; do
+          mkdir -p previews/gif
+
+          # collect matching videos (separate patterns avoids brace expansion pitfalls)
+          videos=(previews/video/*.mp4 previews/video/*.mov)
+
+          for video in "${videos[@]}"; do
             if [[ -f "$video" ]]; then
-              base_dir="$(dirname "$(dirname "$video")")"
-              output_dir="${base_dir}/gif"
-              mkdir -p "$output_dir"
               filename=$(basename "$video")
               filename_noext="${filename%.*}"
-              output_gif="${output_dir}/${filename_noext}.gif"
-              
-              # Only convert if GIF doesn't exist
+              output_gif="previews/gif/${filename_noext}.gif"
+
               if [[ ! -f "$output_gif" ]]; then
                 found_videos=true
-                echo "Converting $video to GIF..."
-                ffmpeg -i "$video" \
+                echo "Converting $video -> $output_gif"
+                ffmpeg -y -i "$video" \
                   -vf "fps=15,scale=320:-1:flags=lanczos" \
                   -c:v gif \
                   "$output_gif"
               else
-                echo "Skipping $video - GIF already exists"
+                echo "Skipping $video — GIF already exists"
               fi
             fi
           done
+
           echo "found_videos=$found_videos" >> $GITHUB_OUTPUT
 
-      - name: Commit and push changes
+      - name: Commit and push changes (only if something changed)
         if: steps.convert.outputs.found_videos == 'true'
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
+
+          git add previews/gif || true
+
+          if git diff --cached --quiet --exit-code; then
+            echo "No staged changes to commit — skipping push."
+            exit 0
+          fi
+
           git commit -m "chore: convert videos to GIFs"
           git push origin dev
