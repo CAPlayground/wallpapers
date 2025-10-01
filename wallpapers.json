@@ -7,27 +7,6 @@
             "description": "GitHub",
             "file": "wallpapers/GitHub.tendies",
             "preview": "previews/gif/GitHub.gif"
-        },
-        {
-            "name": "Wallpaper Submission: kanye",
-            "creator": "retronbv",
-            "description": "test",
-            "file": "wallpapers/Wallpaper_Submission:_kanye.tendies",
-            "preview": "previews/Wallpaper_Submission:_kanye.gif"
-        },
-        {
-            "name": "Kanyay",
-            "creator": "squair.dev",
-            "description": "south",
-            "file": "wallpapers/Kanyay.tendies",
-            "preview": "previews/Kanyay.gif"
-        },
-        {
-            "name": "khanyeha",
-            "creator": "squair.dev",
-            "description": "whest",
-            "file": "wallpapers/khanyeha.tendies",
-            "preview": "previews/khanyeha.gif"
         }
     ]
 }
