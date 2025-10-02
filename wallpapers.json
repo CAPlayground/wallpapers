@@ -7,6 +7,13 @@
             "description": "GitHub",
             "file": "wallpapers/GitHub.tendies",
             "preview": "previews/gif/GitHub.gif"
+        },
+        {
+            "name": "Nintendo Gameboy",
+            "creator": "enkei64",
+            "description": null,
+            "file": "wallpapers/Nintendo_Gameboy.tendies",
+            "preview": "previews/Nintendo_Gameboy.gif"
         }
     ]
 }
