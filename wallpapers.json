@@ -14,6 +14,13 @@
             "description": null,
             "file": "wallpapers/Nintendo_Gameboy.tendies",
             "preview": "previews/Nintendo_Gameboy.gif"
+        },
+        {
+            "name": "drukqs",
+            "creator": "3dme0711",
+            "description": null,
+            "file": "wallpapers/drukqs.tendies",
+            "preview": "previews/drukqs.gif"
         }
     ]
 }
