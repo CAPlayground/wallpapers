@@ -35,6 +35,13 @@
             "description": null,
             "file": "wallpapers/techtoker_wallpapprr.tendies",
             "preview": "previews/techtoker_wallpapprr.gif"
+        },
+        {
+            "name": "google",
+            "creator": "3dme0711",
+            "description": null,
+            "file": "wallpapers/google.tendies",
+            "preview": "previews/google.gif"
         }
     ]
 }
