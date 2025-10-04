@@ -6,49 +6,56 @@
             "creator": "enkei64",
             "description": "GitHub",
             "file": "wallpapers/GitHub.tendies",
-            "preview": "previews/gif/GitHub.gif"
+            "preview": "previews/gif/GitHub.gif",
+            "from": "discord"
         },
         {
             "name": "Nintendo Gameboy",
             "creator": "enkei64",
             "description": null,
             "file": "wallpapers/Nintendo_Gameboy.tendies",
-            "preview": "previews/Nintendo_Gameboy.gif"
+            "preview": "previews/Nintendo_Gameboy.gif",
+            "from": "discord"
         },
         {
             "name": "drukqs",
             "creator": "3dme0711",
             "description": null,
             "file": "wallpapers/drukqs.tendies",
-            "preview": "previews/drukqs.gif"
+            "preview": "previews/drukqs.gif",
+            "from": "discord"
         },
         {
             "name": "caplayground",
             "creator": "3dme0711",
             "description": null,
             "file": "wallpapers/caplayground.tendies",
-            "preview": "previews/caplayground.gif"
+            "preview": "previews/caplayground.gif",
+            "from": "discord"
         },
         {
             "name": "techtoker wallpapprr",
             "creator": "3dme0711",
             "description": null,
             "file": "wallpapers/techtoker_wallpapprr.tendies",
-            "preview": "previews/techtoker_wallpapprr.gif"
+            "preview": "previews/techtoker_wallpapprr.gif",
+            "from": "discord"
         },
         {
             "name": "google",
             "creator": "3dme0711",
             "description": null,
             "file": "wallpapers/google.tendies",
-            "preview": "previews/google.gif"
+            "preview": "previews/google.gif",
+            "from": "discord"
         },
         {
             "name": "Spiderman",
             "creator": "spy_g_was_silenced",
             "description": null,
             "file": "wallpapers/Spiderman.tendies",
-            "preview": "previews/Spiderman.gif"
+            "preview": "previews/Spiderman.gif",
+            "from": "discord"
         }
     ]
 }
