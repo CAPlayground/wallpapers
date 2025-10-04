@@ -14,7 +14,7 @@
             "creator": "enkei64",
             "description": "Nintendo",
             "file": "wallpapers/Nintendo_Gameboy.tendies",
-            "preview": "previews/Nintendo_Gameboy.gif",
+            "preview": "previews/gif/Nintendo_Gameboy.gif",
             "from": "discord"
         },
         {
@@ -22,7 +22,7 @@
             "creator": "3dme0711",
             "description": "Drukqs wallpaper",
             "file": "wallpapers/drukqs.tendies",
-            "preview": "previews/drukqs.gif",
+            "preview": "previews/gif/drukqs.gif",
             "from": "discord"
         },
         {
@@ -30,7 +30,7 @@
             "creator": "3dme0711",
             "description": "tested on ip13 iOS 26",
             "file": "wallpapers/caplayground.tendies",
-            "preview": "previews/caplayground.gif",
+            "preview": "previews/gif/caplayground.gif",
             "from": "discord"
         },
         {
@@ -38,7 +38,7 @@
             "creator": "3dme0711",
             "description": "tested on ip13 ios26",
             "file": "wallpapers/techtoker_wallpapprr.tendies",
-            "preview": "previews/techtoker_wallpapprr.gif",
+            "preview": "previews/gif/techtoker_wallpapprr.gif",
             "from": "discord"
         },
         {
@@ -46,7 +46,7 @@
             "creator": "3dme0711",
             "description": "a descprtiong tested on ip13 ios26",
             "file": "wallpapers/google.tendies",
-            "preview": "previews/google.gif",
+            "preview": "previews/gif/google.gif",
             "from": "discord"
         },
         {
@@ -54,7 +54,7 @@
             "creator": "spy_g_was_silenced",
             "description": "spiderman hanging",
             "file": "wallpapers/Spiderman.tendies",
-            "preview": "previews/Spiderman.gif",
+            "preview": "previews/gif/Spiderman.gif",
             "from": "discord"
         }
     ]
