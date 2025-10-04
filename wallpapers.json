@@ -42,6 +42,13 @@
             "description": null,
             "file": "wallpapers/google.tendies",
             "preview": "previews/google.gif"
+        },
+        {
+            "name": "Spiderman",
+            "creator": "spy_g_was_silenced",
+            "description": null,
+            "file": "wallpapers/Spiderman.tendies",
+            "preview": "previews/Spiderman.gif"
         }
     ]
 }
