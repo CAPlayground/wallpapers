@@ -12,7 +12,7 @@
         {
             "name": "Nintendo Gameboy",
             "creator": "enkei64",
-            "description": null,
+            "description": "Nintendo",
             "file": "wallpapers/Nintendo_Gameboy.tendies",
             "preview": "previews/Nintendo_Gameboy.gif",
             "from": "discord"
@@ -20,7 +20,7 @@
         {
             "name": "drukqs",
             "creator": "3dme0711",
-            "description": null,
+            "description": "Drukqs wallpaper",
             "file": "wallpapers/drukqs.tendies",
             "preview": "previews/drukqs.gif",
             "from": "discord"
@@ -28,7 +28,7 @@
         {
             "name": "caplayground",
             "creator": "3dme0711",
-            "description": null,
+            "description": "tested on ip13 iOS 26",
             "file": "wallpapers/caplayground.tendies",
             "preview": "previews/caplayground.gif",
             "from": "discord"
@@ -36,7 +36,7 @@
         {
             "name": "techtoker wallpapprr",
             "creator": "3dme0711",
-            "description": null,
+            "description": "tested on ip13 ios26",
             "file": "wallpapers/techtoker_wallpapprr.tendies",
             "preview": "previews/techtoker_wallpapprr.gif",
             "from": "discord"
@@ -44,7 +44,7 @@
         {
             "name": "google",
             "creator": "3dme0711",
-            "description": null,
+            "description": "a descprtiong tested on ip13 ios26",
             "file": "wallpapers/google.tendies",
             "preview": "previews/google.gif",
             "from": "discord"
@@ -52,17 +52,10 @@
         {
             "name": "Spiderman",
             "creator": "spy_g_was_silenced",
-            "description": null,
+            "description": "spiderman hanging",
             "file": "wallpapers/Spiderman.tendies",
             "preview": "previews/Spiderman.gif",
             "from": "discord"
-        },
-        {
-            "name": "description pls work",
-            "creator": "squair.dev",
-            "description": "please .w.",
-            "file": "wallpapers/description_pls_work.tendies",
-            "preview": "previews/gif/description_pls_work.gif"
         }
     ]
 }
