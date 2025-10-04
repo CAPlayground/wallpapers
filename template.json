@@ -6,7 +6,8 @@
             "creator": "me",
             "description": "this is my cool wallpaper",
             "file": "wallpapers/my_cool_wallpaper.tendies",
-            "preview": "previewss/gif/my_cool_wallpaper.gif"
+            "preview": "previews/gif/my_cool_wallpaper.gif",
+            "from": "discord"
         }
     ]
 }
