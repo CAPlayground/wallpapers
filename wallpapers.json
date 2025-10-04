@@ -56,6 +56,14 @@
             "file": "wallpapers/Spiderman.tendies",
             "preview": "previews/gif/Spiderman.gif",
             "from": "discord"
+        },
+        {
+            "name": "NokiaLV",
+            "creator": "ttoff999_43141",
+            "description": "Just a Nokia",
+            "file": "wallpapers/NokiaLV.tendies",
+            "preview": "previews/gif/NokiaLV.gif",
+            "from": "discord"
         }
     ]
 }
