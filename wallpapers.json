@@ -49,13 +49,6 @@
             "description": null,
             "file": "wallpapers/Spiderman.tendies",
             "preview": "previews/Spiderman.gif"
-        },
-        {
-            "name": "test",
-            "creator": "squair.dev",
-            "description": "delete",
-            "file": "wallpapers/test.tendies",
-            "preview": "previews/test.gif"
         }
     ]
 }
