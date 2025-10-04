@@ -21,6 +21,13 @@
             "description": null,
             "file": "wallpapers/drukqs.tendies",
             "preview": "previews/drukqs.gif"
+        },
+        {
+            "name": "caplayground",
+            "creator": "3dme0711",
+            "description": null,
+            "file": "wallpapers/caplayground.tendies",
+            "preview": "previews/caplayground.gif"
         }
     ]
 }
