@@ -56,6 +56,13 @@
             "file": "wallpapers/Spiderman.tendies",
             "preview": "previews/Spiderman.gif",
             "from": "discord"
+        },
+        {
+            "name": "description pls work",
+            "creator": "squair.dev",
+            "description": "please .w.",
+            "file": "wallpapers/description_pls_work.tendies",
+            "preview": "previews/gif/description_pls_work.gif"
         }
     ]
 }
