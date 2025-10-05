@@ -7,7 +7,7 @@
             "description": "GitHub",
             "file": "wallpapers/GitHub.tendies",
             "preview": "previews/gif/GitHub.gif",
-            "from": "discord"
+            "from": "Discord"
         },
         {
             "name": "Nintendo Gameboy",
@@ -15,7 +15,7 @@
             "description": "Nintendo",
             "file": "wallpapers/Nintendo_Gameboy.tendies",
             "preview": "previews/gif/Nintendo_Gameboy.gif",
-            "from": "discord"
+            "from": "Discord"
         },
         {
             "name": "drukqs",
@@ -23,7 +23,7 @@
             "description": "Drukqs wallpaper",
             "file": "wallpapers/drukqs.tendies",
             "preview": "previews/gif/drukqs.gif",
-            "from": "discord"
+            "from": "Discord"
         },
         {
             "name": "caplayground",
@@ -31,7 +31,7 @@
             "description": "tested on ip13 iOS 26",
             "file": "wallpapers/caplayground.tendies",
             "preview": "previews/gif/caplayground.gif",
-            "from": "discord"
+            "from": "Discord"
         },
         {
             "name": "techtoker wallpapprr",
@@ -39,7 +39,7 @@
             "description": "tested on ip13 ios26",
             "file": "wallpapers/techtoker_wallpapprr.tendies",
             "preview": "previews/gif/techtoker_wallpapprr.gif",
-            "from": "discord"
+            "from": "Discord"
         },
         {
             "name": "google",
@@ -47,7 +47,7 @@
             "description": "a descprtiong tested on ip13 ios26",
             "file": "wallpapers/google.tendies",
             "preview": "previews/gif/google.gif",
-            "from": "discord"
+            "from": "Discord"
         },
         {
             "name": "Spiderman",
@@ -55,7 +55,31 @@
             "description": "spiderman hanging",
             "file": "wallpapers/Spiderman.tendies",
             "preview": "previews/gif/Spiderman.gif",
-            "from": "discord"
+            "from": "Discord"
+        },
+        {
+            "name": "NokiaLV",
+            "creator": "ttoff999_43141",
+            "description": "Just a Nokia",
+            "file": "wallpapers/NokiaLV.tendies",
+            "preview": "previews/gif/NokiaLV.gif",
+            "from": "Discord"
+        },
+        {
+            "name": "Spinning Squares",
+            "creator": "gdnnpc",
+            "description": "Squares spinning at different speeds",
+            "file": "wallpapers/Spinning_Squares.tendies",
+            "preview": "previews/gif/Spinning_Squares.gif",
+            "from": "Discord"
+        },
+        {
+            "name": "SideStore",
+            "creator": "gdnnpc",
+            "description": "Moving SideStore icons",
+            "file": "wallpapers/SideStore.tendies",
+            "preview": "previews/gif/SideStore.gif",
+            "from": "Discord"
         }
     ]
 }
