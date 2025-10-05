@@ -64,6 +64,14 @@
             "file": "wallpapers/NokiaLV.tendies",
             "preview": "previews/gif/NokiaLV.gif",
             "from": "discord"
+        },
+        {
+            "name": "Spinning Squares",
+            "creator": "gdnnpc",
+            "description": "Squares spinning at different speeds",
+            "file": "wallpapers/Spinning_Squares.tendies",
+            "preview": "previews/gif/Spinning_Squares.gif",
+            "from": "discord"
         }
     ]
 }
