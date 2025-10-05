@@ -72,6 +72,14 @@
             "file": "wallpapers/Spinning_Squares.tendies",
             "preview": "previews/gif/Spinning_Squares.gif",
             "from": "discord"
+        },
+        {
+            "name": "SideStore",
+            "creator": "gdnnpc",
+            "description": "Moving SideStore icons",
+            "file": "wallpapers/SideStore.tendies",
+            "preview": "previews/gif/SideStore.gif",
+            "from": "discord"
         }
     ]
 }
