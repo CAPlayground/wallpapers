@@ -88,6 +88,14 @@
             "file": "wallpapers/WATCH26.tendies",
             "preview": "previews/gif/WATCH26.gif",
             "from": "discord"
+        },
+        {
+            "name": "GBA Animated",
+            "creator": "enkei64",
+            "description": "GBA with day and night cycle",
+            "file": "wallpapers/GBA_Animated.tendies",
+            "preview": "previews/gif/GBA_Animated.gif",
+            "from": "discord"
         }
     ]
 }
