@@ -80,6 +80,14 @@
             "file": "wallpapers/SideStore.tendies",
             "preview": "previews/gif/SideStore.gif",
             "from": "Discord"
+        },
+        {
+            "name": "WATCH26",
+            "creator": "ttoff999_43141",
+            "description": "based wallpaper watchOS26",
+            "file": "wallpapers/WATCH26.tendies",
+            "preview": "previews/gif/WATCH26.gif",
+            "from": "discord"
         }
     ]
 }
