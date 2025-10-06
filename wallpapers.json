@@ -2,12 +2,28 @@
     "base_url": "https://raw.githubusercontent.com/CAPlayground/wallpapers/refs/heads/main/",
     "wallpapers": [
         {
+            "name": "GBA Animated",
+            "creator": "whoism4xi",
+            "description": "GBA with day and night cycle",
+            "file": "wallpapers/GBA_Animated.tendies",
+            "preview": "previews/gif/GBA_Animated.gif",
+            "from": "discord"
+        },
+        {
             "name": "GitHub",
             "creator": "enkei64",
             "description": "GitHub",
             "file": "wallpapers/GitHub.tendies",
             "preview": "previews/gif/GitHub.gif",
             "from": "Discord"
+        },
+        {
+            "name": "WATCH26",
+            "creator": "ttoff999_43141",
+            "description": "based wallpaper watchOS26",
+            "file": "wallpapers/WATCH26.tendies",
+            "preview": "previews/gif/WATCH26.gif",
+            "from": "discord"
         },
         {
             "name": "Nintendo Gameboy",
