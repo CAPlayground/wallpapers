@@ -3,6 +3,7 @@
     "wallpapers": [
         {
             "name": "GBA Animated",
+            "id": "0000001",
             "creator": "whoism4xi",
             "description": "GBA with day and night cycle",
             "file": "wallpapers/GBA_Animated.tendies",
@@ -11,6 +12,7 @@
         },
         {
             "name": "GitHub",
+            "id": "0000002",
             "creator": "enkei64",
             "description": "GitHub",
             "file": "wallpapers/GitHub.tendies",
@@ -19,6 +21,7 @@
         },
         {
             "name": "WATCH26",
+            "id": "0000003",
             "creator": "ttoff999_43141",
             "description": "based wallpaper watchOS26",
             "file": "wallpapers/WATCH26.tendies",
@@ -27,6 +30,7 @@
         },
         {
             "name": "Nintendo Gameboy",
+            "id": "0000004",
             "creator": "enkei64",
             "description": "Nintendo",
             "file": "wallpapers/Nintendo_Gameboy.tendies",
@@ -35,6 +39,7 @@
         },
         {
             "name": "drukqs",
+            "id": "0000005",
             "creator": "3dme0711",
             "description": "Drukqs wallpaper",
             "file": "wallpapers/drukqs.tendies",
@@ -43,6 +48,7 @@
         },
         {
             "name": "caplayground",
+            "id": "0000006",
             "creator": "3dme0711",
             "description": "tested on ip13 iOS 26",
             "file": "wallpapers/caplayground.tendies",
@@ -51,6 +57,7 @@
         },
         {
             "name": "techtoker wallpapprr",
+            "id": "0000007",
             "creator": "3dme0711",
             "description": "tested on ip13 ios26",
             "file": "wallpapers/techtoker_wallpapprr.tendies",
@@ -59,6 +66,7 @@
         },
         {
             "name": "google",
+            "id": "0000008",
             "creator": "3dme0711",
             "description": "a descprtiong tested on ip13 ios26",
             "file": "wallpapers/google.tendies",
@@ -67,6 +75,7 @@
         },
         {
             "name": "Spiderman",
+            "id": "0000009",
             "creator": "spy_g_was_silenced",
             "description": "spiderman hanging",
             "file": "wallpapers/Spiderman.tendies",
@@ -75,6 +84,7 @@
         },
         {
             "name": "NokiaLV",
+            "id": "0000010",
             "creator": "ttoff999_43141",
             "description": "Just a Nokia",
             "file": "wallpapers/NokiaLV.tendies",
@@ -83,6 +93,7 @@
         },
         {
             "name": "Spinning Squares",
+            "id": "0000011",
             "creator": "gdnnpc",
             "description": "Squares spinning at different speeds",
             "file": "wallpapers/Spinning_Squares.tendies",
@@ -91,6 +102,7 @@
         },
         {
             "name": "SideStore",
+            "id": "0000012",
             "creator": "gdnnpc",
             "description": "Moving SideStore icons",
             "file": "wallpapers/SideStore.tendies",
