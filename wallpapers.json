@@ -108,6 +108,15 @@
             "file": "wallpapers/SideStore.tendies",
             "preview": "previews/gif/SideStore.gif",
             "from": "Discord"
+        },
+        {
+            "name": "Simple Minecraft Chest",
+            "creator": "tayvall",
+            "description": "simple opening anc closing minecraft chest",
+            "file": "wallpapers/Simple_Minecraft_Chest.tendies",
+            "preview": "previews/gif/Simple_Minecraft_Chest.gif",
+            "from": "discord",
+            "id": 2382626
         }
     ]
 }
