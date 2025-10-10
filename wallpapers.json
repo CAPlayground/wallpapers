@@ -117,6 +117,15 @@
             "preview": "previews/gif/Simple_Minecraft_Chest.gif",
             "from": "discord",
             "id": 2382626
+        },
+        {
+            "name": "Monster Mouth",
+            "creator": "tayvall",
+            "description": "scary mouth opening and closing",
+            "file": "wallpapers/Monster_Mouth.tendies",
+            "preview": "previews/gif/Monster_Mouth.gif",
+            "from": "discord",
+            "id": 9605235
         }
     ]
 }
