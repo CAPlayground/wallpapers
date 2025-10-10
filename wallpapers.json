@@ -126,6 +126,15 @@
             "preview": "previews/gif/Monster_Mouth.gif",
             "from": "discord",
             "id": 9605235
+        },
+        {
+            "name": "Ender Chest",
+            "creator": "tayvall",
+            "description": "The dark alternative to the casual chest",
+            "file": "wallpapers/Ender_Chest.tendies",
+            "preview": "previews/gif/Ender_Chest.gif",
+            "from": "discord",
+            "id": 1201758
         }
     ]
 }
