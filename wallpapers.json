@@ -126,6 +126,24 @@
             "preview": "previews/gif/Monster_Mouth.gif",
             "from": "discord",
             "id": 9605235
+        },
+        {
+            "name": "Ender Chest",
+            "creator": "tayvall",
+            "description": "The dark alternative to the casual chest",
+            "file": "wallpapers/Ender_Chest.tendies",
+            "preview": "previews/gif/Ender_Chest.gif",
+            "from": "discord",
+            "id": 1201758
+        },
+        {
+            "name": "Batman",
+            "creator": "spy_g_was_silenced",
+            "description": "I am batman",
+            "file": "wallpapers/Batman.tendies",
+            "preview": "previews/gif/Batman.gif",
+            "from": "discord",
+            "id": 9695042
         }
     ]
 }
