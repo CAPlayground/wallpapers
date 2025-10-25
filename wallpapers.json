@@ -171,6 +171,15 @@
             "preview": "previews/gif/Snow_Emitters.gif",
             "from": "discord",
             "id": 3827285
+        },
+        {
+            "name": "Coloured Bubbles",
+            "creator": "gdnnpc",
+            "description": "Bubbles rising from the bottom of the screen",
+            "file": "wallpapers/Coloured_Bubbles.tendies",
+            "preview": "previews/gif/Coloured_Bubbles.gif",
+            "from": "discord",
+            "id": 2459295
         }
     ]
 }
