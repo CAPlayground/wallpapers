@@ -153,6 +153,24 @@
             "preview": "previews/gif/Luffy_Gear_5.gif",
             "from": "discord",
             "id": 5883484
+        },
+        {
+            "name": "Black balls",
+            "creator": "spy_g_was_silenced",
+            "description": "Floating black balls",
+            "file": "wallpapers/Black_balls.tendies",
+            "preview": "previews/gif/Black_balls.gif",
+            "from": "discord",
+            "id": 1878216
+        },
+        {
+            "name": "Snow Emitters",
+            "creator": "enkei64",
+            "description": "Snowballs falling from the sky",
+            "file": "wallpapers/Snow_Emitters.tendies",
+            "preview": "previews/gif/Snow_Emitters.gif",
+            "from": "discord",
+            "id": 3827285
         }
     ]
 }
