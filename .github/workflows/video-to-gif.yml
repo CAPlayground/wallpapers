@@ -4,6 +4,7 @@ on:
     paths:
       - 'previews/video/*.mp4'
       - 'previews/video/*.mov'
+      - 'previews/video/*.MP4'
     branches:
       - dev
   workflow_dispatch:
@@ -38,7 +39,7 @@ jobs:
           mkdir -p previews/gif
 
           # collect matching videos (separate patterns avoids brace expansion pitfalls)
-          videos=(previews/video/*.mp4 previews/video/*.mov)
+          videos=(previews/video/*.mp4 previews/video/*.mov previews/video/*.MP4)
 
           for video in "${videos[@]}"; do
             if [[ -f "$video" ]]; then
