@@ -180,6 +180,15 @@
             "preview": "previews/gif/Coloured_Bubbles.gif",
             "from": "discord",
             "id": 2459295
+        },
+        {
+            "name": "Snoopy in the snow",
+            "creator": "spy_g_was_silenced",
+            "description": "Snoppy",
+            "file": "wallpapers/Snoopy_in_the_snow.tendies",
+            "preview": "previews/gif/Snoopy_in_the_snow.gif",
+            "from": "discord",
+            "id": 8051033
         }
     ]
 }
