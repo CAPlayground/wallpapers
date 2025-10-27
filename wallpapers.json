@@ -189,6 +189,15 @@
             "preview": "previews/gif/Snoopy_in_the_snow.gif",
             "from": "discord",
             "id": 8051033
+        },
+        {
+            "name": "discord",
+            "creator": "3dme0711",
+            "description": "discord",
+            "file": "wallpapers/discord.tendies",
+            "preview": "previews/gif/discord.gif",
+            "from": "discord",
+            "id": 2063461
         }
     ]
 }
