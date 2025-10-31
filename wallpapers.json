@@ -207,6 +207,15 @@
             "preview": "previews/gif/Rolling_hills_(Demo).gif",
             "from": "discord",
             "id": 8670238
+        },
+        {
+            "name": "Autumn City",
+            "creator": "gdnnpc",
+            "description": "Autumn themed wallpaper with falling leaves",
+            "file": "wallpapers/Autumn_City.tendies",
+            "preview": "previews/gif/Autumn_City.gif",
+            "from": "discord",
+            "id": 1633426
         }
     ]
 }
