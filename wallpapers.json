@@ -234,6 +234,15 @@
             "preview": "previews/gif/Mr_krabs_drowning.gif",
             "from": "discord",
             "id": 3760245
+        },
+        {
+            "name": "Castle Crashers",
+            "creator": "dreigned",
+            "description": "A blast from the past! Simple but clean",
+            "file": "wallpapers/Castle_Crashers.tendies",
+            "preview": "previews/gif/Castle_Crashers.gif",
+            "from": "discord",
+            "id": 1953812
         }
     ]
 }
