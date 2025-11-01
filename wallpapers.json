@@ -225,6 +225,33 @@
             "preview": "previews/gif/pumpkin.gif",
             "from": "discord",
             "id": 1038971
+        },
+        {
+            "name": "Mr krabs drowning",
+            "creator": "spy_g_was_silenced",
+            "description": "MONEYYY",
+            "file": "wallpapers/Mr_krabs_drowning.tendies",
+            "preview": "previews/gif/Mr_krabs_drowning.gif",
+            "from": "discord",
+            "id": 3760245
+        },
+        {
+            "name": "Castle Crashers",
+            "creator": "dreigned",
+            "description": "A blast from the past! Simple but clean",
+            "file": "wallpapers/Castle_Crashers.tendies",
+            "preview": "previews/gif/Castle_Crashers.gif",
+            "from": "discord",
+            "id": 1953812
+        },
+        {
+            "name": "iphone16proDesert4all",
+            "creator": "zezora8eb",
+            "description": "iphone 16 pro desert wallpaper for all devices, Enjoy",
+            "file": "wallpapers/iphone16proDesert4all.tendies",
+            "preview": "previews/gif/iphone16proDesert4all.gif",
+            "from": "discord",
+            "id": 8630679
         }
     ]
 }
