@@ -270,6 +270,15 @@
             "preview": "previews/gif/Green_Porche_911_GT3_RS.gif",
             "from": "discord",
             "id": 9612103
+        },
+        {
+            "name": "Lightning McQueen",
+            "creator": "lordrezon",
+            "description": "Made with Cap, shows Lightning McQueen",
+            "file": "wallpapers/Lightning_McQueen.tendies",
+            "preview": "previews/gif/Lightning_McQueen.gif",
+            "from": "discord",
+            "id": 4618572
         }
     ]
 }
