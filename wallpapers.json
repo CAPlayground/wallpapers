@@ -279,6 +279,15 @@
             "preview": "previews/gif/Lightning_McQueen.gif",
             "from": "discord",
             "id": 4618572
+        },
+        {
+            "name": "Fantastic Four",
+            "creator": "spy_g_was_silenced",
+            "description": "FF",
+            "file": "wallpapers/Fantastic_Four.tendies",
+            "preview": "previews/gif/Fantastic_Four.gif",
+            "from": "discord",
+            "id": 7941155
         }
     ]
 }
