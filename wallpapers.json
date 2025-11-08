@@ -252,6 +252,42 @@
             "preview": "previews/gif/iphone16proDesert4all.gif",
             "from": "discord",
             "id": 8630679
+        },
+        {
+            "name": "iPhone Air - SkyBlue for All",
+            "creator": "zezora8eb",
+            "description": "simple but elegant",
+            "file": "wallpapers/iPhone_Air_-_SkyBlue_for_All.tendies",
+            "preview": "previews/gif/iPhone_Air_-_SkyBlue_for_All.gif",
+            "from": "discord",
+            "id": 6276423
+        },
+        {
+            "name": "Green Porche 911 GT3 RS",
+            "creator": "skylocker",
+            "description": "It's a Porche and it's green 🫠",
+            "file": "wallpapers/Green_Porche_911_GT3_RS.tendies",
+            "preview": "previews/gif/Green_Porche_911_GT3_RS.gif",
+            "from": "discord",
+            "id": 9612103
+        },
+        {
+            "name": "Lightning McQueen",
+            "creator": "lordrezon",
+            "description": "Made with Cap, shows Lightning McQueen",
+            "file": "wallpapers/Lightning_McQueen.tendies",
+            "preview": "previews/gif/Lightning_McQueen.gif",
+            "from": "discord",
+            "id": 4618572
+        },
+        {
+            "name": "Fantastic Four",
+            "creator": "spy_g_was_silenced",
+            "description": "FF",
+            "file": "wallpapers/Fantastic_Four.tendies",
+            "preview": "previews/gif/Fantastic_Four.gif",
+            "from": "discord",
+            "id": 7941155
         }
     ]
 }
