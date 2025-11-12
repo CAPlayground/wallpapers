@@ -297,6 +297,15 @@
             "preview": "previews/gif/Christmas_stuff.gif",
             "from": "discord",
             "id": 1126553
+        },
+        {
+            "name": "Blending Blur Tail",
+            "creator": "enkei64",
+            "description": "Wallpaper with replicators and the new blending modes and filters",
+            "file": "wallpapers/Blending_Blur_Tail.tendies",
+            "preview": "previews/gif/Blending_Blur_Tail.gif",
+            "from": "discord",
+            "id": 1854992
         }
     ]
 }
