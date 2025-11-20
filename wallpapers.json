@@ -324,6 +324,15 @@
             "preview": "previews/gif/Cloudzv2.gif",
             "from": "discord",
             "id": 2556324
+        },
+        {
+            "name": "Bowser Jr.",
+            "creator": "aperaine",
+            "description": "Comes with light and dark mode variations",
+            "file": "wallpapers/Bowser_Jr..tendies",
+            "preview": "previews/gif/Bowser_Jr..gif",
+            "from": "discord",
+            "id": 8081890
         }
     ]
 }
