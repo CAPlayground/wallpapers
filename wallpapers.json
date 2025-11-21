@@ -333,6 +333,15 @@
             "preview": "previews/gif/Bowser_Jr..gif",
             "from": "discord",
             "id": 8081890
+        },
+        {
+            "name": "arch",
+            "creator": "roflrola0731",
+            "description": "final arch wallpapers",
+            "file": "wallpapers/arch.tendies",
+            "preview": "previews/gif/arch.gif",
+            "from": "discord",
+            "id": 3256651
         }
     ]
 }
