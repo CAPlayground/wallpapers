@@ -20,12 +20,12 @@
       "from": "Discord"
     },
     {
-      "name": "ï£¿WATCH26",
+      "name": "Ã¯Â£Â¿WATCH26",
       "id": "0000003",
       "creator": "ttoff999_43141",
       "description": "based wallpaper watchOS26",
-      "file": "wallpapers/ï£¿WATCH26.tendies",
-      "preview": "previews/gif/ï£¿WATCH26.gif",
+      "file": "wallpapers/Ã¯Â£Â¿WATCH26.tendies",
+      "preview": "previews/gif/Ã¯Â£Â¿WATCH26.gif",
       "from": "discord"
     },
     {
@@ -265,7 +265,7 @@
     {
       "name": "Green Porche 911 GT3 RS",
       "creator": "skylocker",
-      "description": "It's a Porche and it's green ð« ",
+      "description": "It's a Porche and it's green Ã°ÂÂ«Â ",
       "file": "wallpapers/Green_Porche_911_GT3_RS.tendies",
       "preview": "previews/gif/Green_Porche_911_GT3_RS.gif",
       "from": "discord",
@@ -350,6 +350,15 @@
       "description": "iOS 26+",
       "file": "wallpapers/Floating_Spider_Man_with_gyro.tendies",
       "preview": "previews/gif/Floating_Spider_Man_with_gyro.mp4",
+      "from": "website"
+    },
+    {
+      "name": "LastTest",
+      "id": "5585158",
+      "creator": "enkei64",
+      "description": "Last test",
+      "file": "wallpapers/LastTest.tendies",
+      "preview": "previews/gif/LastTest.mp4",
       "from": "website"
     }
   ]
