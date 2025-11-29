@@ -1,347 +1,356 @@
 {
-    "base_url": "https://raw.githubusercontent.com/CAPlayground/wallpapers/refs/heads/main/",
-    "wallpapers": [
-        {
-            "name": "GBA Animated",
-            "id": "0000001",
-            "creator": "whoism4xi",
-            "description": "GBA with day and night cycle",
-            "file": "wallpapers/GBA_Animated.tendies",
-            "preview": "previews/gif/GBA_Animated.gif",
-            "from": "discord"
-        },
-        {
-            "name": "GitHub",
-            "id": "0000002",
-            "creator": "enkei64",
-            "description": "GitHub",
-            "file": "wallpapers/GitHub.tendies",
-            "preview": "previews/gif/GitHub.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "WATCH26",
-            "id": "0000003",
-            "creator": "ttoff999_43141",
-            "description": "based wallpaper watchOS26",
-            "file": "wallpapers/WATCH26.tendies",
-            "preview": "previews/gif/WATCH26.gif",
-            "from": "discord"
-        },
-        {
-            "name": "Nintendo Gameboy",
-            "id": "0000004",
-            "creator": "enkei64",
-            "description": "Nintendo",
-            "file": "wallpapers/Nintendo_Gameboy.tendies",
-            "preview": "previews/gif/Nintendo_Gameboy.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "drukqs",
-            "id": "0000005",
-            "creator": "3dme0711",
-            "description": "Drukqs wallpaper",
-            "file": "wallpapers/drukqs.tendies",
-            "preview": "previews/gif/drukqs.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "caplayground",
-            "id": "0000006",
-            "creator": "3dme0711",
-            "description": "tested on ip13 iOS 26",
-            "file": "wallpapers/caplayground.tendies",
-            "preview": "previews/gif/caplayground.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "techtoker wallpapprr",
-            "id": "0000007",
-            "creator": "3dme0711",
-            "description": "tested on ip13 ios26",
-            "file": "wallpapers/techtoker_wallpapprr.tendies",
-            "preview": "previews/gif/techtoker_wallpapprr.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "google",
-            "id": "0000008",
-            "creator": "3dme0711",
-            "description": "a descprtiong tested on ip13 ios26",
-            "file": "wallpapers/google.tendies",
-            "preview": "previews/gif/google.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "Spiderman",
-            "id": "0000009",
-            "creator": "spy_g_was_silenced",
-            "description": "spiderman hanging",
-            "file": "wallpapers/Spiderman.tendies",
-            "preview": "previews/gif/Spiderman.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "NokiaLV",
-            "id": "0000010",
-            "creator": "ttoff999_43141",
-            "description": "Just a Nokia",
-            "file": "wallpapers/NokiaLV.tendies",
-            "preview": "previews/gif/NokiaLV.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "Spinning Squares",
-            "id": "0000011",
-            "creator": "gdnnpc",
-            "description": "Squares spinning at different speeds",
-            "file": "wallpapers/Spinning_Squares.tendies",
-            "preview": "previews/gif/Spinning_Squares.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "SideStore",
-            "id": "0000012",
-            "creator": "gdnnpc",
-            "description": "Moving SideStore icons",
-            "file": "wallpapers/SideStore.tendies",
-            "preview": "previews/gif/SideStore.gif",
-            "from": "Discord"
-        },
-        {
-            "name": "Simple Minecraft Chest",
-            "creator": "tayvall",
-            "description": "simple opening anc closing minecraft chest",
-            "file": "wallpapers/Simple_Minecraft_Chest.tendies",
-            "preview": "previews/gif/Simple_Minecraft_Chest.gif",
-            "from": "discord",
-            "id": 2382626
-        },
-        {
-            "name": "Monster Mouth",
-            "creator": "tayvall",
-            "description": "scary mouth opening and closing",
-            "file": "wallpapers/Monster_Mouth.tendies",
-            "preview": "previews/gif/Monster_Mouth.gif",
-            "from": "discord",
-            "id": 9605235
-        },
-        {
-            "name": "Ender Chest",
-            "creator": "tayvall",
-            "description": "The dark alternative to the casual chest",
-            "file": "wallpapers/Ender_Chest.tendies",
-            "preview": "previews/gif/Ender_Chest.gif",
-            "from": "discord",
-            "id": 1201758
-        },
-        {
-            "name": "Batman",
-            "creator": "spy_g_was_silenced",
-            "description": "I am batman",
-            "file": "wallpapers/Batman.tendies",
-            "preview": "previews/gif/Batman.gif",
-            "from": "discord",
-            "id": 9695042
-        },
-        {
-            "name": "Luffy Gear 5",
-            "creator": "enkei64",
-            "description": "Luffy Gear 5 (v2) Wallpaper with many effects!",
-            "file": "wallpapers/Luffy_Gear_5.tendies",
-            "preview": "previews/gif/Luffy_Gear_5.gif",
-            "from": "discord",
-            "id": 5883484
-        },
-        {
-            "name": "Black balls",
-            "creator": "spy_g_was_silenced",
-            "description": "Floating black balls",
-            "file": "wallpapers/Black_balls.tendies",
-            "preview": "previews/gif/Black_balls.gif",
-            "from": "discord",
-            "id": 1878216
-        },
-        {
-            "name": "Snow Emitters",
-            "creator": "enkei64",
-            "description": "Snowballs falling from the sky",
-            "file": "wallpapers/Snow_Emitters.tendies",
-            "preview": "previews/gif/Snow_Emitters.gif",
-            "from": "discord",
-            "id": 3827285
-        },
-        {
-            "name": "Coloured Bubbles",
-            "creator": "gdnnpc",
-            "description": "Bubbles rising from the bottom of the screen",
-            "file": "wallpapers/Coloured_Bubbles.tendies",
-            "preview": "previews/gif/Coloured_Bubbles.gif",
-            "from": "discord",
-            "id": 2459295
-        },
-        {
-            "name": "Snoopy in the snow",
-            "creator": "spy_g_was_silenced",
-            "description": "Snoppy",
-            "file": "wallpapers/Snoopy_in_the_snow.tendies",
-            "preview": "previews/gif/Snoopy_in_the_snow.gif",
-            "from": "discord",
-            "id": 8051033
-        },
-        {
-            "name": "discord",
-            "creator": "3dme0711",
-            "description": "discord",
-            "file": "wallpapers/discord.tendies",
-            "preview": "previews/gif/discord.gif",
-            "from": "discord",
-            "id": 2063461
-        },
-        {
-            "name": "Rolling hills (Demo)",
-            "creator": "i.mes",
-            "description": "A simple gyro wallpaper featuring the Roblox noob.",
-            "file": "wallpapers/Rolling_hills_(Demo).tendies",
-            "preview": "previews/gif/Rolling_hills_(Demo).gif",
-            "from": "discord",
-            "id": 8670238
-        },
-        {
-            "name": "Autumn City",
-            "creator": "gdnnpc",
-            "description": "Autumn themed wallpaper with falling leaves",
-            "file": "wallpapers/Autumn_City.tendies",
-            "preview": "previews/gif/Autumn_City.gif",
-            "from": "discord",
-            "id": 1633426
-        },
-        {
-            "name": "pumpkin",
-            "creator": "3dme0711",
-            "description": "pumpkin",
-            "file": "wallpapers/pumpkin.tendies",
-            "preview": "previews/gif/pumpkin.gif",
-            "from": "discord",
-            "id": 1038971
-        },
-        {
-            "name": "Mr krabs drowning",
-            "creator": "spy_g_was_silenced",
-            "description": "MONEYYY",
-            "file": "wallpapers/Mr_krabs_drowning.tendies",
-            "preview": "previews/gif/Mr_krabs_drowning.gif",
-            "from": "discord",
-            "id": 3760245
-        },
-        {
-            "name": "Castle Crashers",
-            "creator": "dreigned",
-            "description": "A blast from the past! Simple but clean",
-            "file": "wallpapers/Castle_Crashers.tendies",
-            "preview": "previews/gif/Castle_Crashers.gif",
-            "from": "discord",
-            "id": 1953812
-        },
-        {
-            "name": "iphone16proDesert4all",
-            "creator": "zezora8eb",
-            "description": "iphone 16 pro desert wallpaper for all devices, Enjoy",
-            "file": "wallpapers/iphone16proDesert4all.tendies",
-            "preview": "previews/gif/iphone16proDesert4all.gif",
-            "from": "discord",
-            "id": 8630679
-        },
-        {
-            "name": "iPhone Air - SkyBlue for All",
-            "creator": "zezora8eb",
-            "description": "simple but elegant",
-            "file": "wallpapers/iPhone_Air_-_SkyBlue_for_All.tendies",
-            "preview": "previews/gif/iPhone_Air_-_SkyBlue_for_All.gif",
-            "from": "discord",
-            "id": 6276423
-        },
-        {
-            "name": "Green Porche 911 GT3 RS",
-            "creator": "skylocker",
-            "description": "It's a Porche and it's green 🫠",
-            "file": "wallpapers/Green_Porche_911_GT3_RS.tendies",
-            "preview": "previews/gif/Green_Porche_911_GT3_RS.gif",
-            "from": "discord",
-            "id": 9612103
-        },
-        {
-            "name": "Lightning McQueen",
-            "creator": "lordrezon",
-            "description": "Made with Cap, shows Lightning McQueen",
-            "file": "wallpapers/Lightning_McQueen.tendies",
-            "preview": "previews/gif/Lightning_McQueen.gif",
-            "from": "discord",
-            "id": 4618572
-        },
-        {
-            "name": "Fantastic Four",
-            "creator": "spy_g_was_silenced",
-            "description": "FF",
-            "file": "wallpapers/Fantastic_Four.tendies",
-            "preview": "previews/gif/Fantastic_Four.gif",
-            "from": "discord",
-            "id": 7941155
-        },
-        {
-            "name": "Christmas stuff",
-            "creator": "spy_g_was_silenced",
-            "description": "Gingerbreak",
-            "file": "wallpapers/Christmas_stuff.tendies",
-            "preview": "previews/gif/Christmas_stuff.gif",
-            "from": "discord",
-            "id": 1126553
-        },
-        {
-            "name": "Blending Blur Tail",
-            "creator": "enkei64",
-            "description": "Wallpaper with replicators and the new blending modes and filters",
-            "file": "wallpapers/Blending_Blur_Tail.tendies",
-            "preview": "previews/gif/Blending_Blur_Tail.gif",
-            "from": "discord",
-            "id": 1854992
-        },
-        {
-            "name": "Ben10-V1",
-            "creator": "alucard_93",
-            "description": "Ben10",
-            "file": "wallpapers/Ben10-V1.tendies",
-            "preview": "previews/gif/Ben10-V1.gif",
-            "from": "discord",
-            "id": 4189160
-        },
-        {
-            "name": "Cloudzv2",
-            "creator": "dav18d1",
-            "description": "Fully animated with turning on animation aswell",
-            "file": "wallpapers/Cloudzv2.tendies",
-            "preview": "previews/gif/Cloudzv2.gif",
-            "from": "discord",
-            "id": 2556324
-        },
-        {
-            "name": "Bowser Jr.",
-            "creator": "aperaine",
-            "description": "Comes with light and dark mode variations",
-            "file": "wallpapers/Bowser_Jr..tendies",
-            "preview": "previews/gif/Bowser_Jr..gif",
-            "from": "discord",
-            "id": 8081890
-        },
-        {
-            "name": "arch",
-            "creator": "roflrola0731",
-            "description": "final arch wallpapers",
-            "file": "wallpapers/arch.tendies",
-            "preview": "previews/gif/arch.gif",
-            "from": "discord",
-            "id": 3256651
-        }
-    ]
+  "base_url": "https://raw.githubusercontent.com/CAPlayground/wallpapers/refs/heads/main/",
+  "wallpapers": [
+    {
+      "name": "GBA Animated",
+      "id": "0000001",
+      "creator": "whoism4xi",
+      "description": "GBA with day and night cycle",
+      "file": "wallpapers/GBA_Animated.tendies",
+      "preview": "previews/gif/GBA_Animated.gif",
+      "from": "discord"
+    },
+    {
+      "name": "GitHub",
+      "id": "0000002",
+      "creator": "enkei64",
+      "description": "GitHub",
+      "file": "wallpapers/GitHub.tendies",
+      "preview": "previews/gif/GitHub.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "ï£¿WATCH26",
+      "id": "0000003",
+      "creator": "ttoff999_43141",
+      "description": "based wallpaper watchOS26",
+      "file": "wallpapers/ï£¿WATCH26.tendies",
+      "preview": "previews/gif/ï£¿WATCH26.gif",
+      "from": "discord"
+    },
+    {
+      "name": "Nintendo Gameboy",
+      "id": "0000004",
+      "creator": "enkei64",
+      "description": "Nintendo",
+      "file": "wallpapers/Nintendo_Gameboy.tendies",
+      "preview": "previews/gif/Nintendo_Gameboy.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "drukqs",
+      "id": "0000005",
+      "creator": "3dme0711",
+      "description": "Drukqs wallpaper",
+      "file": "wallpapers/drukqs.tendies",
+      "preview": "previews/gif/drukqs.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "caplayground",
+      "id": "0000006",
+      "creator": "3dme0711",
+      "description": "tested on ip13 iOS 26",
+      "file": "wallpapers/caplayground.tendies",
+      "preview": "previews/gif/caplayground.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "techtoker wallpapprr",
+      "id": "0000007",
+      "creator": "3dme0711",
+      "description": "tested on ip13 ios26",
+      "file": "wallpapers/techtoker_wallpapprr.tendies",
+      "preview": "previews/gif/techtoker_wallpapprr.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "google",
+      "id": "0000008",
+      "creator": "3dme0711",
+      "description": "a descprtiong tested on ip13 ios26",
+      "file": "wallpapers/google.tendies",
+      "preview": "previews/gif/google.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "Spiderman",
+      "id": "0000009",
+      "creator": "spy_g_was_silenced",
+      "description": "spiderman hanging",
+      "file": "wallpapers/Spiderman.tendies",
+      "preview": "previews/gif/Spiderman.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "NokiaLV",
+      "id": "0000010",
+      "creator": "ttoff999_43141",
+      "description": "Just a Nokia",
+      "file": "wallpapers/NokiaLV.tendies",
+      "preview": "previews/gif/NokiaLV.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "Spinning Squares",
+      "id": "0000011",
+      "creator": "gdnnpc",
+      "description": "Squares spinning at different speeds",
+      "file": "wallpapers/Spinning_Squares.tendies",
+      "preview": "previews/gif/Spinning_Squares.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "SideStore",
+      "id": "0000012",
+      "creator": "gdnnpc",
+      "description": "Moving SideStore icons",
+      "file": "wallpapers/SideStore.tendies",
+      "preview": "previews/gif/SideStore.gif",
+      "from": "Discord"
+    },
+    {
+      "name": "Simple Minecraft Chest",
+      "creator": "tayvall",
+      "description": "simple opening anc closing minecraft chest",
+      "file": "wallpapers/Simple_Minecraft_Chest.tendies",
+      "preview": "previews/gif/Simple_Minecraft_Chest.gif",
+      "from": "discord",
+      "id": 2382626
+    },
+    {
+      "name": "Monster Mouth",
+      "creator": "tayvall",
+      "description": "scary mouth opening and closing",
+      "file": "wallpapers/Monster_Mouth.tendies",
+      "preview": "previews/gif/Monster_Mouth.gif",
+      "from": "discord",
+      "id": 9605235
+    },
+    {
+      "name": "Ender Chest",
+      "creator": "tayvall",
+      "description": "The dark alternative to the casual chest",
+      "file": "wallpapers/Ender_Chest.tendies",
+      "preview": "previews/gif/Ender_Chest.gif",
+      "from": "discord",
+      "id": 1201758
+    },
+    {
+      "name": "Batman",
+      "creator": "spy_g_was_silenced",
+      "description": "I am batman",
+      "file": "wallpapers/Batman.tendies",
+      "preview": "previews/gif/Batman.gif",
+      "from": "discord",
+      "id": 9695042
+    },
+    {
+      "name": "Luffy Gear 5",
+      "creator": "enkei64",
+      "description": "Luffy Gear 5 (v2) Wallpaper with many effects!",
+      "file": "wallpapers/Luffy_Gear_5.tendies",
+      "preview": "previews/gif/Luffy_Gear_5.gif",
+      "from": "discord",
+      "id": 5883484
+    },
+    {
+      "name": "Black balls",
+      "creator": "spy_g_was_silenced",
+      "description": "Floating black balls",
+      "file": "wallpapers/Black_balls.tendies",
+      "preview": "previews/gif/Black_balls.gif",
+      "from": "discord",
+      "id": 1878216
+    },
+    {
+      "name": "Snow Emitters",
+      "creator": "enkei64",
+      "description": "Snowballs falling from the sky",
+      "file": "wallpapers/Snow_Emitters.tendies",
+      "preview": "previews/gif/Snow_Emitters.gif",
+      "from": "discord",
+      "id": 3827285
+    },
+    {
+      "name": "Coloured Bubbles",
+      "creator": "gdnnpc",
+      "description": "Bubbles rising from the bottom of the screen",
+      "file": "wallpapers/Coloured_Bubbles.tendies",
+      "preview": "previews/gif/Coloured_Bubbles.gif",
+      "from": "discord",
+      "id": 2459295
+    },
+    {
+      "name": "Snoopy in the snow",
+      "creator": "spy_g_was_silenced",
+      "description": "Snoppy",
+      "file": "wallpapers/Snoopy_in_the_snow.tendies",
+      "preview": "previews/gif/Snoopy_in_the_snow.gif",
+      "from": "discord",
+      "id": 8051033
+    },
+    {
+      "name": "discord",
+      "creator": "3dme0711",
+      "description": "discord",
+      "file": "wallpapers/discord.tendies",
+      "preview": "previews/gif/discord.gif",
+      "from": "discord",
+      "id": 2063461
+    },
+    {
+      "name": "Rolling hills (Demo)",
+      "creator": "i.mes",
+      "description": "A simple gyro wallpaper featuring the Roblox noob.",
+      "file": "wallpapers/Rolling_hills_(Demo).tendies",
+      "preview": "previews/gif/Rolling_hills_(Demo).gif",
+      "from": "discord",
+      "id": 8670238
+    },
+    {
+      "name": "Autumn City",
+      "creator": "gdnnpc",
+      "description": "Autumn themed wallpaper with falling leaves",
+      "file": "wallpapers/Autumn_City.tendies",
+      "preview": "previews/gif/Autumn_City.gif",
+      "from": "discord",
+      "id": 1633426
+    },
+    {
+      "name": "pumpkin",
+      "creator": "3dme0711",
+      "description": "pumpkin",
+      "file": "wallpapers/pumpkin.tendies",
+      "preview": "previews/gif/pumpkin.gif",
+      "from": "discord",
+      "id": 1038971
+    },
+    {
+      "name": "Mr krabs drowning",
+      "creator": "spy_g_was_silenced",
+      "description": "MONEYYY",
+      "file": "wallpapers/Mr_krabs_drowning.tendies",
+      "preview": "previews/gif/Mr_krabs_drowning.gif",
+      "from": "discord",
+      "id": 3760245
+    },
+    {
+      "name": "Castle Crashers",
+      "creator": "dreigned",
+      "description": "A blast from the past! Simple but clean",
+      "file": "wallpapers/Castle_Crashers.tendies",
+      "preview": "previews/gif/Castle_Crashers.gif",
+      "from": "discord",
+      "id": 1953812
+    },
+    {
+      "name": "iphone16proDesert4all",
+      "creator": "zezora8eb",
+      "description": "iphone 16 pro desert wallpaper for all devices, Enjoy",
+      "file": "wallpapers/iphone16proDesert4all.tendies",
+      "preview": "previews/gif/iphone16proDesert4all.gif",
+      "from": "discord",
+      "id": 8630679
+    },
+    {
+      "name": "iPhone Air - SkyBlue for All",
+      "creator": "zezora8eb",
+      "description": "simple but elegant",
+      "file": "wallpapers/iPhone_Air_-_SkyBlue_for_All.tendies",
+      "preview": "previews/gif/iPhone_Air_-_SkyBlue_for_All.gif",
+      "from": "discord",
+      "id": 6276423
+    },
+    {
+      "name": "Green Porche 911 GT3 RS",
+      "creator": "skylocker",
+      "description": "It's a Porche and it's green ð« ",
+      "file": "wallpapers/Green_Porche_911_GT3_RS.tendies",
+      "preview": "previews/gif/Green_Porche_911_GT3_RS.gif",
+      "from": "discord",
+      "id": 9612103
+    },
+    {
+      "name": "Lightning McQueen",
+      "creator": "lordrezon",
+      "description": "Made with Cap, shows Lightning McQueen",
+      "file": "wallpapers/Lightning_McQueen.tendies",
+      "preview": "previews/gif/Lightning_McQueen.gif",
+      "from": "discord",
+      "id": 4618572
+    },
+    {
+      "name": "Fantastic Four",
+      "creator": "spy_g_was_silenced",
+      "description": "FF",
+      "file": "wallpapers/Fantastic_Four.tendies",
+      "preview": "previews/gif/Fantastic_Four.gif",
+      "from": "discord",
+      "id": 7941155
+    },
+    {
+      "name": "Christmas stuff",
+      "creator": "spy_g_was_silenced",
+      "description": "Gingerbreak",
+      "file": "wallpapers/Christmas_stuff.tendies",
+      "preview": "previews/gif/Christmas_stuff.gif",
+      "from": "discord",
+      "id": 1126553
+    },
+    {
+      "name": "Blending Blur Tail",
+      "creator": "enkei64",
+      "description": "Wallpaper with replicators and the new blending modes and filters",
+      "file": "wallpapers/Blending_Blur_Tail.tendies",
+      "preview": "previews/gif/Blending_Blur_Tail.gif",
+      "from": "discord",
+      "id": 1854992
+    },
+    {
+      "name": "Ben10-V1",
+      "creator": "alucard_93",
+      "description": "Ben10",
+      "file": "wallpapers/Ben10-V1.tendies",
+      "preview": "previews/gif/Ben10-V1.gif",
+      "from": "discord",
+      "id": 4189160
+    },
+    {
+      "name": "Cloudzv2",
+      "creator": "dav18d1",
+      "description": "Fully animated with turning on animation aswell",
+      "file": "wallpapers/Cloudzv2.tendies",
+      "preview": "previews/gif/Cloudzv2.gif",
+      "from": "discord",
+      "id": 2556324
+    },
+    {
+      "name": "Bowser Jr.",
+      "creator": "aperaine",
+      "description": "Comes with light and dark mode variations",
+      "file": "wallpapers/Bowser_Jr..tendies",
+      "preview": "previews/gif/Bowser_Jr..gif",
+      "from": "discord",
+      "id": 8081890
+    },
+    {
+      "name": "arch",
+      "creator": "roflrola0731",
+      "description": "final arch wallpapers",
+      "file": "wallpapers/arch.tendies",
+      "preview": "previews/gif/arch.gif",
+      "from": "discord",
+      "id": 3256651
+    },
+    {
+      "name": "Floating Spider-Man with gyro",
+      "id": "5511788",
+      "creator": "spy_g",
+      "description": "iOS 26+",
+      "file": "wallpapers/Floating_Spider_Man_with_gyro.tendies",
+      "preview": "previews/gif/Floating_Spider_Man_with_gyro.mp4",
+      "from": "website"
+    }
+  ]
 }
