@@ -344,7 +344,24 @@
       "id": 3256651
     },
     {
-      "name": "Floating Spider-Man with gyro",
+      "name": "Floating Spiderman",
+      "creator": "spy_g_was_silenced",
+      "description": "falling",
+      "file": "wallpapers/Floating_Spiderman.tendies",
+      "preview": "previews/gif/Floating_Spiderman.gif",
+      "from": "discord",
+      "id": 7689347
+    },
+    {
+      "name": "Meowl Dancing",
+      "id": "3692461",
+      "creator": "enkei64",
+      "description": "Meowl gets the wide vibe ride",
+      "file": "wallpapers/Meowl_Dancing.tendies",
+      "preview": "previews/gif/Meowl_Dancing.gif",
+    },
+    {
+      "name": "Floating Spiderman with Gyro",
       "id": "5511788",
       "creator": "spy_g",
       "description": "iOS 26+",
