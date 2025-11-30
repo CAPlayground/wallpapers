@@ -358,7 +358,7 @@
       "creator": "enkei64",
       "description": "Meowl gets the wide vibe ride",
       "file": "wallpapers/Meowl_Dancing.tendies",
-      "preview": "previews/gif/Meowl_Dancing.gif",
+      "preview": "previews/gif/Meowl_Dancing.gif"
     },
     {
       "name": "Floating Spiderman with Gyro",
@@ -367,6 +367,15 @@
       "description": "iOS 26+",
       "file": "wallpapers/Floating_Spider_Man_with_gyro.tendies",
       "preview": "previews/gif/Floating_Spider_Man_with_gyro.mp4",
+      "from": "website"
+    },
+    {
+      "name": "Nintendo Switch 2 X Mario Kart 9 (AOD)",
+      "id": 4916821,
+      "creator": "enkei64",
+      "description": "Nintendo owns intellectual property rights in its products.",
+      "file": "wallpapers/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.tendies",
+      "preview": "previews/video/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.mov",
       "from": "website"
     }
   ]
