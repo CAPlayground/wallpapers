@@ -359,6 +359,14 @@
       "description": "Meowl gets the wide vibe ride",
       "file": "wallpapers/Meowl_Dancing.tendies",
       "preview": "previews/gif/Meowl_Dancing.gif",
+    },
+    {
+      "name": "Floating Spiderman with Gyro",
+      "id": "5511788",
+      "creator": "spy_g",
+      "description": "iOS 26+",
+      "file": "wallpapers/Floating_Spider_Man_with_gyro.tendies",
+      "preview": "previews/gif/Floating_Spider_Man_with_gyro.mp4",
       "from": "website"
     }
   ]
