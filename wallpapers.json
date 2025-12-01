@@ -265,7 +265,7 @@
     {
       "name": "Green Porche 911 GT3 RS",
       "creator": "skylocker",
-      "description": "It's a Porche and it's green Ã°ÂÂ«Â ",
+      "description": "It's a Porche and it's green ÃÂ°ÃÂÃÂ«ÃÂ ",
       "file": "wallpapers/Green_Porche_911_GT3_RS.tendies",
       "preview": "previews/gif/Green_Porche_911_GT3_RS.gif",
       "from": "discord",
@@ -377,6 +377,15 @@
       "description": "Nintendo owns intellectual property rights in its products.",
       "file": "wallpapers/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.tendies",
       "preview": "previews/gif/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.gif",
+      "from": "website"
+    },
+    {
+      "name": "Manosaba Gyro",
+      "id": 1197274,
+      "creator": "IceOrange",
+      "description": "There's sleep transition, but screen recording can't record.",
+      "file": "wallpapers/Manosaba_Gyro.tendies",
+      "preview": "previews/gif/Manosaba_Gyro.gif",
       "from": "website"
     }
   ]
