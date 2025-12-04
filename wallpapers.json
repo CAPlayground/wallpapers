@@ -265,7 +265,7 @@
     {
       "name": "Green Porche 911 GT3 RS",
       "creator": "skylocker",
-      "description": "It's a Porche and it's green Ã°ÂÂ«Â ",
+      "description": "It's a Porche and it's green",
       "file": "wallpapers/Green_Porche_911_GT3_RS.tendies",
       "preview": "previews/gif/Green_Porche_911_GT3_RS.gif",
       "from": "discord",
@@ -367,7 +367,7 @@
       "creator": "spy_g",
       "description": "iOS 26+",
       "file": "wallpapers/Floating_Spider_Man_with_gyro.tendies",
-      "preview": "previews/gif/Floating_Spider_Man_with_gyro.mp4",
+      "preview": "previews/gif/Floating_Spider_Man_with_gyro.gif",
       "from": "website"
     },
     {
@@ -377,6 +377,24 @@
       "description": "Nintendo owns intellectual property rights in its products.",
       "file": "wallpapers/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.tendies",
       "preview": "previews/gif/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.gif",
+      "from": "website"
+    },
+    {
+      "name": "Nakano Nino(The Quintessential Quintuplet)",
+      "id": 5036701,
+      "creator": "ShogunRaiden",
+      "description": "Custom Wallpaper Nakano nino on Gotoubun no hanayome",
+      "file": "wallpapers/Nakano_Nino_The_Quintessential_Quintuplet_.tendies",
+      "preview": "previews/gif/Nakano_Nino_The_Quintessential_Quintuplet_.gif",
+      "from": "website"
+    },
+    {
+      "name": "Manosaba Gyro",
+      "id": 1197274,
+      "creator": "IceOrange",
+      "description": "There's sleep transition, but screen recording can't record.",
+      "file": "wallpapers/Manosaba_Gyro.tendies",
+      "preview": "previews/gif/Manosaba_Gyro.gif",
       "from": "website"
     }
   ]
