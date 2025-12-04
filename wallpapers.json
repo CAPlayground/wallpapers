@@ -396,6 +396,15 @@
       "file": "wallpapers/Manosaba_Gyro.tendies",
       "preview": "previews/gif/Manosaba_Gyro.gif",
       "from": "website"
+    },
+    {
+      "name": "test",
+      "id": 8943710,
+      "creator": "enkei64",
+      "description": "test",
+      "file": "wallpapers/test.tendies",
+      "preview": "previews/gif/test.gif",
+      "from": "website"
     }
   ]
 }
