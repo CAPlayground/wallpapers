@@ -396,6 +396,15 @@
       "file": "wallpapers/Manosaba_Gyro.tendies",
       "preview": "previews/gif/Manosaba_Gyro.gif",
       "from": "website"
+    },
+    {
+      "name": "iPhone 16 pro max blue",
+      "id": 9255705,
+      "creator": "0x0000000_.0",
+      "description": "For all device",
+      "file": "wallpapers/iPhone_16_pro_max_blue.tendies",
+      "preview": "previews/gif/iPhone_16_pro_max_blue.gif",
+      "from": "website"
     }
   ]
 }
