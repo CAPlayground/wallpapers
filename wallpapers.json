@@ -405,6 +405,15 @@
       "file": "wallpapers/Red_balls.tendies",
       "preview": "previews/gif/Red_balls.gif",
       "from": "website"
+    },
+    {
+      "name": "Tva poster",
+      "id": 2832098,
+      "creator": "spy_g",
+      "description": "Time Variance Authority",
+      "file": "wallpapers/Tva_poster.tendies",
+      "preview": "previews/gif/Tva_poster.gif",
+      "from": "website"
     }
   ]
 }
