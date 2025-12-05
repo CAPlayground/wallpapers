@@ -47,7 +47,7 @@
       "from": "Discord"
     },
     {
-      "name": "caplayground",
+      "name": "CAPlayground",
       "id": "0000006",
       "creator": "3dme0711",
       "description": "tested on ip13 iOS 26",
@@ -65,7 +65,7 @@
       "from": "Discord"
     },
     {
-      "name": "google",
+      "name": "Google",
       "id": "0000008",
       "creator": "3dme0711",
       "description": "a descprtiong tested on ip13 ios26",
@@ -155,7 +155,7 @@
       "id": 5883484
     },
     {
-      "name": "Black balls",
+      "name": "Black Balls",
       "creator": "spy_g_was_silenced",
       "description": "Floating black balls",
       "file": "wallpapers/Black_balls.tendies",
@@ -182,7 +182,7 @@
       "id": 2459295
     },
     {
-      "name": "Snoopy in the snow",
+      "name": "Snoopy in the Snow",
       "creator": "spy_g_was_silenced",
       "description": "Snoppy",
       "file": "wallpapers/Snoopy_in_the_snow.tendies",
@@ -191,7 +191,7 @@
       "id": 8051033
     },
     {
-      "name": "discord",
+      "name": "Discord",
       "creator": "3dme0711",
       "description": "discord",
       "file": "wallpapers/discord.tendies",
@@ -227,7 +227,7 @@
       "id": 1038971
     },
     {
-      "name": "Mr krabs drowning",
+      "name": "Mr Krabs drowning",
       "creator": "spy_g_was_silenced",
       "description": "MONEYYY",
       "file": "wallpapers/Mr_krabs_drowning.tendies",
@@ -245,7 +245,7 @@
       "id": 1953812
     },
     {
-      "name": "iphone16proDesert4all",
+      "name": "iPhone 16 Pro - Desert All",
       "creator": "zezora8eb",
       "description": "iphone 16 pro desert wallpaper for all devices, Enjoy",
       "file": "wallpapers/iphone16proDesert4all.tendies",
@@ -254,7 +254,7 @@
       "id": 8630679
     },
     {
-      "name": "iPhone Air - SkyBlue for All",
+      "name": "iPhone Air - SkyBlue All",
       "creator": "zezora8eb",
       "description": "simple but elegant",
       "file": "wallpapers/iPhone_Air_-_SkyBlue_for_All.tendies",
@@ -299,7 +299,7 @@
       "id": 1126553
     },
     {
-      "name": "Blending Blur Tail",
+      "name": "Blending Blur",
       "creator": "enkei64",
       "description": "Wallpaper with replicators and the new blending modes and filters",
       "file": "wallpapers/Blending_Blur_Tail.tendies",
@@ -335,7 +335,7 @@
       "id": 8081890
     },
     {
-      "name": "arch",
+      "name": "Arch",
       "creator": "roflrola0731",
       "description": "final arch wallpapers",
       "file": "wallpapers/arch.tendies",
@@ -380,7 +380,7 @@
       "from": "website"
     },
     {
-      "name": "Nakano Nino(The Quintessential Quintuplet)",
+      "name": "Nakano Nino (The Quintessential Quintuplet)",
       "id": 5036701,
       "creator": "ShogunRaiden",
       "description": "Custom Wallpaper Nakano nino on Gotoubun no hanayome",
@@ -398,7 +398,16 @@
       "from": "website"
     },
     {
-      "name": "Red balls",
+      "name": "iPhone 16 Pro Max Blue",
+      "id": 9255705,
+      "creator": "0x0000000_.0",
+      "description": "For all devices",
+      "file": "wallpapers/iPhone_16_pro_max_blue.tendies",
+      "preview": "previews/gif/iPhone_16_pro_max_blue.gif",
+      "from": "website"
+    },
+    {
+      "name": "Red Balls",
       "id": 2684411,
       "creator": "spy_g",
       "description": "They are floating red balls",
