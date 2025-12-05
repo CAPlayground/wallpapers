@@ -423,6 +423,15 @@
       "file": "wallpapers/Tva_poster.tendies",
       "preview": "previews/gif/Tva_poster.gif",
       "from": "website"
+    },
+    {
+      "name": "Spidey spin",
+      "id": 2158615,
+      "creator": "spy_g",
+      "description": "Spiderman face spinning",
+      "file": "wallpapers/Spidey_spin.tendies",
+      "preview": "previews/gif/Spidey_spin.gif",
+      "from": "website"
     }
   ]
 }
