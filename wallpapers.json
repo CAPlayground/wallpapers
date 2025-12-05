@@ -401,9 +401,27 @@
       "name": "iPhone 16 Pro Max Blue",
       "id": 9255705,
       "creator": "0x0000000_.0",
-      "description": "For all device",
+      "description": "For all devices",
       "file": "wallpapers/iPhone_16_pro_max_blue.tendies",
       "preview": "previews/gif/iPhone_16_pro_max_blue.gif",
+      "from": "website"
+    },
+    {
+      "name": "Red Balls",
+      "id": 2684411,
+      "creator": "spy_g",
+      "description": "They are floating red balls",
+      "file": "wallpapers/Red_balls.tendies",
+      "preview": "previews/gif/Red_balls.gif",
+      "from": "website"
+    },
+    {
+      "name": "Tva poster",
+      "id": 2832098,
+      "creator": "spy_g",
+      "description": "Time Variance Authority",
+      "file": "wallpapers/Tva_poster.tendies",
+      "preview": "previews/gif/Tva_poster.gif",
       "from": "website"
     }
   ]
