@@ -444,11 +444,38 @@
     },
     {
       "name": "Hatsune Miku",
-      "id": 2832098,
+      "id": 9372814,
       "creator": "ysbz",
       "description": "Hatsune Miku wallpaper",
       "file": "wallpapers/Hatsune-Miku.tendies",
       "preview": "previews/gif/hatsune-miku.gif",
+      "from": "website"
+    },
+    {
+      "name": "Zenitsu - Demon Slayer",
+      "id": 6718325,
+      "creator": "ysbz",
+      "description": "Zenitsu Agatsuma from Demon Slayer",
+      "file": "wallpapers/Zenitsu-DM.tendies",
+      "preview": "previews/gif/Zenitsu-DM.gif",
+      "from": "website"
+    },
+    {
+      "name": "Nezuko - Demon Slayer",
+      "id": 3619384,
+      "creator": "ysbz",
+      "description": "Nezuko Kamado from Demon Slayer",
+      "file": "wallpapers/Nezuko-DM.tendies",
+      "preview": "previews/gif/Nezuko-DM.gif",
+      "from": "website"
+    },
+    {
+      "name": "Moe-Style Zenitsu",
+      "id": 5019028,
+      "creator": "ysbz",
+      "description": "Zenitsu Agatsuma from Demon Slayer in moe style",
+      "file": "wallpapers/Moe-Style-Zenitsu.tendies",
+      "preview": "previews/gif/moe-style-zenitsu.gif",
       "from": "website"
     }
   ]
