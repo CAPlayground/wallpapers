@@ -423,6 +423,15 @@
       "file": "wallpapers/Tva_poster.tendies",
       "preview": "previews/gif/Tva_poster.gif",
       "from": "website"
+    },
+    {
+      "name": "Hatsune Miku",
+      "id": 2832098,
+      "creator": "ysbz",
+      "description": "Hatsune Miku wallpaper",
+      "file": "wallpapers/Hatsune-Miku.tendies",
+      "preview": "previews/gif/hatsune-miku.gif",
+      "from": "website"
     }
   ]
 }
