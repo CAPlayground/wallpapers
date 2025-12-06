@@ -486,6 +486,15 @@
       "file": "wallpapers/iPhone_16_White_Titanium.tendies",
       "preview": "previews/gif/iPhone_16_White_Titanium.gif",
       "from": "website"
+    },
+    {
+      "name": "Umamusume Loading Screen",
+      "id": 7154529,
+      "creator": "manywonders",
+      "description": "Mostly accurate recreation of horse girl game loading screen",
+      "file": "wallpapers/Umamusume_Loading_Screen.tendies",
+      "preview": "previews/gif/Umamusume_Loading_Screen.gif",
+      "from": "website"
     }
   ]
 }
