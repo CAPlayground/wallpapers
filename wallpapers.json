@@ -486,6 +486,42 @@
       "file": "wallpapers/iPhone_16_White_Titanium.tendies",
       "preview": "previews/gif/iPhone_16_White_Titanium.gif",
       "from": "website"
+    },
+    {
+      "name": "I don’t want to lose you",
+      "id": 7469903,
+      "creator": "YangFe",
+      "description": "不想失去你",
+      "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
+      "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
+      "from": "website"
+    },
+    {
+      "name": "Umamusume Loading Screen",
+      "id": 7154529,
+      "creator": "manywonders",
+      "description": "Mostly accurate recreation of horse girl game loading screen",
+      "file": "wallpapers/Umamusume_Loading_Screen.tendies",
+      "preview": "previews/gif/Umamusume_Loading_Screen.gif",
+      "from": "website"
+    },
+    {
+      "name": "HyperOS Glass",
+      "id": 7670567,
+      "creator": "ItzOrvillee",
+      "description": "With Liquid Glass effect",
+      "file": "wallpapers/HyperOS_Glass.tendies",
+      "preview": "previews/gif/HyperOS_Glass.gif",
+      "from": "website"
+    },
+    {
+      "name": "Spongbob",
+      "id": 6060570,
+      "creator": "spy_g",
+      "description": "AOD support included. \nFollow my twitter spy_g_\nDont steal.",
+      "file": "wallpapers/Spongbob.tendies",
+      "preview": "previews/gif/Spongbob.gif",
+      "from": "website"
     }
   ]
 }
