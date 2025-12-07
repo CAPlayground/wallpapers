@@ -488,10 +488,10 @@
       "from": "website"
     },
     {
-      "name": "I don’t want to lose you",
+      "name": "I donât want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "不想失去你",
+      "description": "ä¸æ³å¤±å»ä½ ",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website"
@@ -530,6 +530,15 @@
       "description": "Judy and Nick from Zootopia",
       "file": "wallpapers/Zootopia.tendies",
       "preview": "previews/gif/Zootopia.gif",
+      "from": "website"
+    },
+    {
+      "name": "Sadboy",
+      "id": 1340039,
+      "creator": "spy_g",
+      "description": "sad i guess, Follow my Twitter Spy_g_. Do NOT steal",
+      "file": "wallpapers/Sadboy.tendies",
+      "preview": "previews/gif/Sadboy.gif",
       "from": "website"
     }
   ]
