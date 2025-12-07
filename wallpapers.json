@@ -488,6 +488,15 @@
       "from": "website"
     },
     {
+      "name": "HyperOS Glass",
+      "id": 7670567,
+      "creator": "ItzOrvillee",
+      "description": "With Liquid Glass effect",
+      "file": "wallpapers/HyperOS_Glass.tendies",
+      "preview": "previews/gif/HyperOS_Glass.gif",
+      "from": "website"
+    },
+    {
       "name": "Spongbob",
       "id": 6060570,
       "creator": "spy_g",
