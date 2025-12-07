@@ -522,6 +522,15 @@
       "file": "wallpapers/Spongbob.tendies",
       "preview": "previews/gif/Spongbob.gif",
       "from": "website"
+    },
+    {
+      "name": "Zootopia",
+      "id": 3021574,
+      "creator": "ysbz",
+      "description": "Judy and Nick from Zootopia",
+      "file": "wallpapers/Zootopia.tendies",
+      "preview": "previews/gif/Zootopia.gif",
+      "from": "website"
     }
   ]
 }
