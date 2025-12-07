@@ -488,10 +488,10 @@
       "from": "website"
     },
     {
-      "name": "I don’t want to lose you",
+      "name": "I donât want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "不想失去你",
+      "description": "ä¸æ³å¤±å»ä½ ",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website"
@@ -530,6 +530,15 @@
       "description": "Judy and Nick from Zootopia",
       "file": "wallpapers/Zootopia.tendies",
       "preview": "previews/gif/Zootopia.gif",
+      "from": "website"
+    },
+    {
+      "name": "PRO style ( AOD )",
+      "id": 6615853,
+      "creator": "0x0000000_.0",
+      "description": "For those who like the iPhone Air style",
+      "file": "wallpapers/PRO_style___AOD__.tendies",
+      "preview": "previews/gif/PRO_style___AOD__.gif",
       "from": "website"
     }
   ]
