@@ -488,10 +488,10 @@
       "from": "website"
     },
     {
-      "name": "I don’t want to lose you",
+      "name": "I donât want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "不想失去你",
+      "description": "ä¸æ³å¤±å»ä½ ",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website"
@@ -530,6 +530,15 @@
       "description": "Judy and Nick from Zootopia",
       "file": "wallpapers/Zootopia.tendies",
       "preview": "previews/gif/Zootopia.gif",
+      "from": "website"
+    },
+    {
+      "name": "Cool shapes",
+      "id": 4983462,
+      "creator": "spy_g",
+      "description": "AOD support included. Follow my twitter spy_g_ Dont steal",
+      "file": "wallpapers/Cool_shapes.tendies",
+      "preview": "previews/gif/Cool_shapes.gif",
       "from": "website"
     }
   ]
