@@ -540,6 +540,24 @@
       "file": "wallpapers/Cool_shapes.tendies",
       "preview": "previews/gif/Cool_shapes.gif",
       "from": "website"
+    },
+    {
+      "name": "Sadboy",
+      "id": 1340039,
+      "creator": "spy_g",
+      "description": "sad i guess, Follow my Twitter Spy_g_. Do NOT steal",
+      "file": "wallpapers/Sadboy.tendies",
+      "preview": "previews/gif/Sadboy.gif",
+      "from": "website"
+    },
+    {
+      "name": "PRO style ( AOD )",
+      "id": 6615853,
+      "creator": "0x0000000_.0",
+      "description": "For those who like the iPhone Air style",
+      "file": "wallpapers/PRO_style___AOD__.tendies",
+      "preview": "previews/gif/PRO_style___AOD__.gif",
+      "from": "website"
     }
   ]
 }
