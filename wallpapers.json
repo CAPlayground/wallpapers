@@ -488,10 +488,10 @@
       "from": "website"
     },
     {
-      "name": "I don’t want to lose you",
+      "name": "I donât want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "不想失去你",
+      "description": "ä¸æ³å¤±å»ä½ ",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website"
@@ -575,6 +575,15 @@
       "description": "Coffee",
       "file": "wallpapers/Colours_that_look_like_coffre.tendies",
       "preview": "previews/gif/Colours_that_look_like_coffre.gif",
+      "from": "website"
+    },
+    {
+      "name": "Huawei Palms",
+      "id": 1277508,
+      "creator": "sussy_tech",
+      "description": "Found in harmony os\n(better version coming soon???)",
+      "file": "wallpapers/Huawei_Palms.tendies",
+      "preview": "previews/gif/Huawei_Palms.gif",
       "from": "website"
     }
   ]
