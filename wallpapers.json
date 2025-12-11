@@ -488,10 +488,10 @@
       "from": "website"
     },
     {
-      "name": "I don’t want to lose you",
+      "name": "I donât want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "不想失去你",
+      "description": "ä¸æ³å¤±å»ä½ ",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website"
@@ -575,6 +575,15 @@
       "description": "Coffee",
       "file": "wallpapers/Colours_that_look_like_coffre.tendies",
       "preview": "previews/gif/Colours_that_look_like_coffre.gif",
+      "from": "website"
+    },
+    {
+      "name": "iPhone Air Violet AOD",
+      "id": 4306308,
+      "creator": "Алексей Сергеевич",
+      "description": "Simple wallpapers just with AOD animation.",
+      "file": "wallpapers/iPhone_Air_Violet_AOD.tendies",
+      "preview": "previews/gif/iPhone_Air_Violet_AOD.gif",
       "from": "website"
     }
   ]
