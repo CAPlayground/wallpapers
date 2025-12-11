@@ -488,10 +488,10 @@
       "from": "website"
     },
     {
-      "name": "I don’t want to lose you",
+      "name": "I donât want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "不想失去你",
+      "description": "ä¸æ³å¤±å»ä½ ",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website"
@@ -575,6 +575,15 @@
       "description": "Coffee",
       "file": "wallpapers/Colours_that_look_like_coffre.tendies",
       "preview": "previews/gif/Colours_that_look_like_coffre.gif",
+      "from": "website"
+    },
+    {
+      "name": "Oguri Cap",
+      "id": 1845101,
+      "creator": "Moroshka239",
+      "description": " Simple wallpaper Oguri Cap from Umamusume",
+      "file": "wallpapers/Oguri_Cap.tendies",
+      "preview": "previews/gif/Oguri_Cap.gif",
       "from": "website"
     }
   ]
