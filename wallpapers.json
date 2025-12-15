@@ -488,10 +488,10 @@
       "from": "website"
     },
     {
-      "name": "I donât want to lose you",
+      "name": "I donÃ¢ÂÂt want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "ä¸æ³å¤±å»ä½ ",
+      "description": "Ã¤Â¸ÂÃ¦ÂÂ³Ã¥Â¤Â±Ã¥ÂÂ»Ã¤Â½Â ",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website"
@@ -607,7 +607,7 @@
     {
       "name": "Spider-Man",
       "id": 1106019,
-      "creator": "魅亚力",
+      "creator": "é­äºå",
       "description": "Spider-Man",
       "file": "wallpapers/Spider_Man.tendies",
       "preview": "previews/gif/Spider_Man.gif",
@@ -620,6 +620,15 @@
       "description": "Itsuki Nakano wall featuring her manga panels and artworks",
       "file": "wallpapers/Itsuki_Nakano__TQQ_.tendies",
       "preview": "previews/gif/Itsuki_Nakano__TQQ_.gif",
+      "from": "website"
+    },
+    {
+      "name": "GlamRock Freddy FNaF 9",
+      "id": 5548714,
+      "creator": "TosterSKP!",
+      "description": "I made this wallpaper for those who are into FNAF.",
+      "file": "wallpapers/GlamRock_Freddy_FNaF_9.tendies",
+      "preview": "previews/gif/GlamRock_Freddy_FNaF_9.gif",
       "from": "website"
     }
   ]
