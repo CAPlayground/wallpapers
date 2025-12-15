@@ -585,6 +585,33 @@
       "file": "wallpapers/Oguri_Cap.tendies",
       "preview": "previews/gif/Oguri_Cap.gif",
       "from": "website"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "id": 3133840,
+      "creator": "Moroshka239",
+      "description": "Simple wallpaper Manhattan Cafe from Umamusume",
+      "file": "wallpapers/Manhattan_Cafe.tendies",
+      "preview": "previews/gif/Manhattan_Cafe.gif",
+      "from": "website"
+    },
+    {
+      "name": "Spider-Man",
+      "id": 1106019,
+      "creator": "魅亚力",
+      "description": "Spider-Man",
+      "file": "wallpapers/Spider_Man.tendies",
+      "preview": "previews/gif/Spider_Man.gif",
+      "from": "website"
+    },
+    {
+      "name": "Itsuki Nakano (TQQ)",
+      "id": 4575846,
+      "creator": "chokunplayz",
+      "description": "Itsuki Nakano wall featuring her manga panels and artworks",
+      "file": "wallpapers/Itsuki_Nakano__TQQ_.tendies",
+      "preview": "previews/gif/Itsuki_Nakano__TQQ_.gif",
+      "from": "website"
     }
   ]
 }
