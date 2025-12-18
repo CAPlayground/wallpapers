@@ -8,6 +8,9 @@ on:
       - dev-test
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-wallpapers:
     runs-on: ubuntu-latest
