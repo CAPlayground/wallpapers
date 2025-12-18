@@ -488,7 +488,7 @@
       "from": "website"
     },
     {
-      "name": "I donât want to lose you",
+      "name": "I donÃ¢ÂÂt want to lose you",
       "id": 7469903,
       "creator": "YangFe",
       "description": "ä¸æ³å¤±å»ä½",
@@ -607,7 +607,7 @@
     {
       "name": "Spider-Man",
       "id": 1106019,
-      "creator": "魅亚力",
+      "creator": "é­äºå",
       "description": "Spider-Man",
       "file": "wallpapers/Spider_Man.tendies",
       "preview": "previews/gif/Spider_Man.gif",
@@ -630,6 +630,14 @@
       "file": "wallpapers/__Wuthering_Waves_ninnai_moning.tendies",
       "preview": "previews/gif/__Wuthering_Waves_ninnai_moning.gif",
       "from": "website"
+    },
+    {
+      "name": "ANIMATE GIRL",
+      "id": 7714750,
+      "creator": "Saki666",
+      "description": "wing fixed version",
+      "file": "wallpapers/ANIMATE_GIRL.tendies",
+      "preview": "previews/gif/ANIMATE_GIRL.gif",
     }
   ]
 }
