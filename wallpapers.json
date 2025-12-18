@@ -491,7 +491,7 @@
       "name": "I donât want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "ä¸æ³å¤±å»ä½ ",
+      "description": "ä¸æ³å¤±å»ä½",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website"
@@ -620,6 +620,15 @@
       "description": "Itsuki Nakano wall featuring her manga panels and artworks",
       "file": "wallpapers/Itsuki_Nakano__TQQ_.tendies",
       "preview": "previews/gif/Itsuki_Nakano__TQQ_.gif",
+      "from": "website"
+    },
+    {
+      "name": "鸣潮Wuthering Waves ninnai&moning",
+      "id": 4776964,
+      "creator": "QL C",
+      "description": "Source material:Wuthering Waves official website   ",
+      "file": "wallpapers/__Wuthering_Waves_ninnai_moning.tendies",
+      "preview": "previews/gif/__Wuthering_Waves_ninnai_moning.gif",
       "from": "website"
     }
   ]
