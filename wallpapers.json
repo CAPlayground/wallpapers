@@ -1,4 +1,41 @@
 {
   "base_url": "https://raw.githubusercontent.com/CAPlayground/wallpapers/refs/heads/main/",
-  "wallpapers": []
+  "wallpapers": [
+    {
+      "name": "ANIMATE GIRL",
+      "id": 7714750,
+      "creator": "Saki666",
+      "description": "wing fixed version",
+      "file": "wallpapers/ANIMATE_GIRL.tendies",
+      "preview": "previews/gif/ANIMATE_GIRL.gif",
+      "from": "website"
+    },
+    {
+      "name": "GBA Animated",
+      "id": "0000001",
+      "creator": "whoism4xi",
+      "description": "GBA with day and night cycle",
+      "file": "wallpapers/GBA_Animated.tendies",
+      "preview": "previews/gif/GBA_Animated.gif",
+      "from": "discord"
+    },
+    {
+      "name": "GBA Animated2",
+      "id": "0000001",
+      "creator": "whoism4xi",
+      "description": "GBA with day and night cycle",
+      "file": "wallpapers/GBA_Animated.tendies",
+      "preview": "previews/gif/GBA_Animated.gif",
+      "from": "discord"
+    },
+    {
+      "name": "GBA Animated3",
+      "id": "0000001",
+      "creator": "whoism4xi",
+      "description": "GBA with day and night cycle",
+      "file": "wallpapers/GBA_Animated.tendies",
+      "preview": "previews/gif/GBA_Animated.gif",
+      "from": "discord"
+    }
+  ]
 }
