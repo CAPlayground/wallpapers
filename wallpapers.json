@@ -488,10 +488,10 @@
       "from": "website"
     },
     {
-      "name": "I donÃ¢ÂÂt want to lose you",
+      "name": "I don't want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "Ã¤Â¸ÂÃ¦ÂÂ³Ã¥Â¤Â±Ã¥ÂÂ»Ã¤Â½Â ",
+      "description": "不想失去你",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website"
@@ -623,12 +623,12 @@
       "from": "website"
     },
     {
-      "name": "Manhattan Cafe (fixed)",
+      "name": "Manhattan Cafe",
       "id": 4036723,
       "creator": "Moroshka239",
       "description": "Simple wallpaper Manhattan Cafe from Umamusume",
-      "file": "wallpapers/Manhattan_Cafe__fixed_.tendies",
-      "preview": "previews/gif/Manhattan_Cafe__fixed_.gif",
+      "file": "wallpapers/Manhattan_Cafe.tendies",
+      "preview": "previews/gif/Manhattan_Cafe.gif",
       "from": "website"
     },
     {
@@ -650,18 +650,9 @@
       "from": "website"
     },
     {
-      "name": "Manhattan Cafe",
-      "id": 3133840,
-      "creator": "Moroshka239",
-      "description": "Simple wallpaper Manhattan Cafe from Umamusume",
-      "file": "wallpapers/Manhattan_Cafe.tendies",
-      "preview": "previews/gif/Manhattan_Cafe.gif",
-      "from": "website"
-    },
-    {
       "name": "Spider-Man",
       "id": 1106019,
-      "creator": "é­äºå",
+      "creator": "魅亚力",
       "description": "Spider-Man",
       "file": "wallpapers/Spider_Man.tendies",
       "preview": "previews/gif/Spider_Man.gif",
@@ -710,6 +701,7 @@
       "description": "wing fixed version",
       "file": "wallpapers/ANIMATE_GIRL.tendies",
       "preview": "previews/gif/ANIMATE_GIRL.gif",
+      "from": "website"
     }
   ]
 }
