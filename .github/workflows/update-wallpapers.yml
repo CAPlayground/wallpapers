@@ -5,7 +5,7 @@ on:
     paths:
       - 'jsons/**/*.json'
     branches:
-      - dev-test
+      - dev
   workflow_dispatch:
 
 permissions:
