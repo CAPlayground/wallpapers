@@ -275,7 +275,7 @@
       "name": "I don't want to lose you",
       "id": 7469903,
       "creator": "YangFe",
-      "description": "不想失去你",
+      "description": "ä¸æ³å¤±å»ä½ ",
       "file": "wallpapers/I_don_t_want_to_lose_you.tendies",
       "preview": "previews/gif/I_don_t_want_to_lose_you.gif",
       "from": "website",
@@ -475,7 +475,7 @@
       "name": "REDBubbles",
       "id": 5105437,
       "creator": "ttoff999",
-      "description": "🫧🫧🫧",
+      "description": "ð«§ð«§ð«§",
       "file": "wallpapers/REDBubbles.tendies",
       "preview": "previews/gif/REDBubbles.gif",
       "from": "website",
@@ -554,7 +554,7 @@
     {
       "name": "Spider-Man",
       "id": 1106019,
-      "creator": "魅亚力",
+      "creator": "é­äºå",
       "description": "Spider-Man",
       "file": "wallpapers/Spider_Man.tendies",
       "preview": "previews/gif/Spider_Man.gif",
@@ -662,7 +662,7 @@
       "date": 1765983600000
     },
     {
-      "name": "鸣潮Wuthering Waves ninnai&moning",
+      "name": "é¸£æ½®Wuthering Waves ninnai&moning",
       "id": 4776964,
       "creator": "QL C",
       "description": "Source material:Wuthering Waves official website   ",
@@ -780,6 +780,15 @@
       "preview": "previews/gif/techtoker_wallpapprr.gif",
       "from": "Discord",
       "date": 1765796400000
+    },
+    {
+      "name": "MajdataPlay XXLB 小小蓝白",
+      "id": 5563166,
+      "creator": "Fan DoraXXX",
+      "description": "From game MajdataPlay LingFeng-bbben/MajdataPlay Ver1.1.0",
+      "file": "wallpapers/MajdataPlay_XXLB_____.tendies",
+      "preview": "previews/gif/MajdataPlay_XXLB_____.gif",
+      "from": "website"
     }
   ]
 }
