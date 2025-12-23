@@ -152,6 +152,16 @@
       "date": 1766041200000
     },
     {
+      "name": "Deltarune and Undertale",
+      "id": 6113197,
+      "creator": "ValeNotPro328",
+      "description": "Cool Deltarune and Undertale wallpaper (i didn't draw)",
+      "file": "wallpapers/Deltarune_and_Undertale.tendies",
+      "preview": "previews/gif/Deltarune_and_Undertale.gif",
+      "date": 1766312245561,
+      "from": "website"
+    },
+    {
       "name": "Dragon Ball",
       "id": 5733952,
       "creator": "Tattoist",
@@ -492,6 +502,16 @@
       "date": 1765936800000
     },
     {
+      "name": "Rice Shower(Umamusume:PD)",
+      "id": 5956891,
+      "creator": "ShogunRaiden",
+      "description": "Rice Shower from Umamusume:Pretty Derby",
+      "file": "wallpapers/Rice_Shower_Umamusume_PD_.tendies",
+      "preview": "previews/gif/Rice_Shower_Umamusume_PD_.gif",
+      "date": 1766341039974,
+      "from": "website"
+    },
+    {
       "name": "Rolling hills (Demo)",
       "creator": "i.mes",
       "description": "A simple gyro wallpaper featuring the Roblox noob.",
@@ -510,6 +530,16 @@
       "preview": "previews/gif/Sadboy.gif",
       "from": "website",
       "date": 1765994400000
+    },
+    {
+      "name": "Saki Yoshida",
+      "id": 7755802,
+      "creator": "Moroshka239",
+      "description": "simple wallpaper Saki Yoshida from Metamorphosis",
+      "file": "wallpapers/Saki_Yoshida.tendies",
+      "preview": "previews/gif/Saki_Yoshida.gif",
+      "date": 1766334810907,
+      "from": "website"
     },
     {
       "name": "SideStore",
@@ -610,6 +640,16 @@
       "preview": "previews/gif/Tva_poster.gif",
       "from": "website",
       "date": 1765940400000
+    },
+    {
+      "name": "UNDERTALE Parallax Wallpaper",
+      "id": 5235805,
+      "creator": "ValeNotPro328",
+      "description": "a wallpaper based on the game UNDERTALE",
+      "file": "wallpapers/UNDERTALE_Parallax_Wallpaper.tendies",
+      "preview": "previews/gif/UNDERTALE_Parallax_Wallpaper.gif",
+      "date": 1766317359828,
+      "from": "website"
     },
     {
       "name": "Umamusume Loading Screen",
@@ -780,15 +820,6 @@
       "preview": "previews/gif/techtoker_wallpapprr.gif",
       "from": "Discord",
       "date": 1765796400000
-    },
-    {
-      "name": "MajdataPlay XXLB 小小蓝白",
-      "id": 5563166,
-      "creator": "Fan DoraXXX",
-      "description": "From game MajdataPlay LingFeng-bbben/MajdataPlay Ver1.1.0",
-      "file": "wallpapers/MajdataPlay_XXLB_____.tendies",
-      "preview": "previews/gif/MajdataPlay_XXLB_____.gif",
-      "from": "website"
     }
   ]
 }
