@@ -219,7 +219,7 @@
       "file": "wallpapers/GBA_Animated.tendies",
       "preview": "previews/gif/GBA_Animated.gif",
       "from": "discord",
-      "date": 1761109200000
+      "date": 1761109100000
     },
     {
       "name": "GitHub",
@@ -320,6 +320,16 @@
       "preview": "previews/gif/JieYuan_from_Arknights.gif",
       "from": "website",
       "date": 1766008800000
+    },
+    {
+      "name": "LVpassportFR",
+      "id": 7135758,
+      "creator": "ttoff999",
+      "description": "Create with \n# https://caplayground.vercel.app/ By TTOFF999",
+      "file": "wallpapers/LVpassportFR.tendies",
+      "preview": "previews/gif/LVpassportFR.gif",
+      "date": 1766848421657,
+      "from": "website"
     },
     {
       "name": "Lightning McQueen",
