@@ -219,7 +219,7 @@
       "file": "wallpapers/GBA_Animated.tendies",
       "preview": "previews/gif/GBA_Animated.gif",
       "from": "discord",
-      "date": 1761109200000
+      "date": 1761109100000
     },
     {
       "name": "GitHub",
@@ -260,6 +260,16 @@
       "preview": "previews/gif/hatsune-miku.gif",
       "from": "website",
       "date": 1761285600000
+    },
+    {
+      "name": "Hermès Paris",
+      "id": 7765909,
+      "creator": "CERCISE",
+      "description": "Hermes",
+      "file": "wallpapers/Herm_s_Paris.tendies",
+      "preview": "previews/gif/Herm_s_Paris.gif",
+      "date": 1766600441176,
+      "from": "website"
     },
     {
       "name": "Huawei Palms",
@@ -310,6 +320,16 @@
       "preview": "previews/gif/JieYuan_from_Arknights.gif",
       "from": "website",
       "date": 1766008800000
+    },
+    {
+      "name": "LVpassportFR",
+      "id": 7135758,
+      "creator": "ttoff999",
+      "description": "Create with \n# https://caplayground.vercel.app/ By TTOFF999",
+      "file": "wallpapers/LVpassportFR.tendies",
+      "preview": "previews/gif/LVpassportFR.gif",
+      "date": 1766848421657,
+      "from": "website"
     },
     {
       "name": "Lightning McQueen",
@@ -652,6 +672,16 @@
       "date": 1765980000000
     },
     {
+      "name": "The Metamorphosis",
+      "id": 9479358,
+      "creator": "Moroshka239",
+      "description": "Franz Kafka - Metamorphosis wallpaper",
+      "file": "wallpapers/The_Metamorphosis.tendies",
+      "preview": "previews/gif/The_Metamorphosis.gif",
+      "date": 1766654471855,
+      "from": "website"
+    },
+    {
       "name": "Tva poster",
       "id": 2832098,
       "creator": "spy_g",
@@ -770,6 +800,16 @@
       "preview": "previews/gif/drukqs.gif",
       "from": "Discord",
       "date": 1761123600000
+    },
+    {
+      "name": "enchanted love",
+      "id": 2091018,
+      "creator": "Fan DoraXXX",
+      "description": "enchanted love v1.0\nOriginal from linear ring\nArt by 锥虫蓝\n",
+      "file": "wallpapers/enchanted_love.tendies",
+      "preview": "previews/gif/enchanted_love.gif",
+      "date": 1766828059221,
+      "from": "website"
     },
     {
       "name": "Google",
