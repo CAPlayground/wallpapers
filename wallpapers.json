@@ -2,6 +2,26 @@
   "base_url": "https://raw.githubusercontent.com/CAPlayground/wallpapers/refs/heads/main/",
   "wallpapers": [
     {
+      "name": "11037 Case 1",
+      "id": 4013559,
+      "creator": "MakotoNaeg",
+      "description": "Danganronpa fan wallpapers with original sprites (also work ",
+      "file": "wallpapers/11037_Case_1.tendies",
+      "preview": "previews/gif/11037_Case_1.gif",
+      "date": 1767092919825,
+      "from": "website"
+    },
+    {
+      "name": "AKANE-the-Angle",
+      "id": 5269445,
+      "creator": "Fan DoraXXX",
+      "description": "Original from game 'O.N.G.E.K.I' @SEGA\n",
+      "file": "wallpapers/AKANE_the_Angle.tendies",
+      "preview": "previews/gif/AKANE_the_Angle.gif",
+      "date": 1767091801723,
+      "from": "website"
+    },
+    {
       "name": "ANIMATE GIRL",
       "id": 7714750,
       "creator": "Saki666",
@@ -12,6 +32,16 @@
       "date": 1766052000000
     },
     {
+      "name": "Arch 3D",
+      "id": 3645303,
+      "creator": "whitemcwizard",
+      "description": "The arch logo with gyro ",
+      "file": "wallpapers/Arch_3D.tendies",
+      "preview": "previews/gif/Arch_3D.gif",
+      "from": "website",
+      "date": 1767471906840
+    },
+    {
       "name": "Autumn City",
       "creator": "gdnnpc",
       "description": "Autumn themed wallpaper with falling leaves",
@@ -19,7 +49,7 @@
       "preview": "previews/gif/Autumn_City.gif",
       "from": "discord",
       "id": 1633426,
-      "date": 1765857600000
+      "date": 1761192000000
     },
     {
       "name": "B0Y and R4VEN",
@@ -39,7 +69,7 @@
       "preview": "previews/gif/Batman.gif",
       "from": "discord",
       "id": 9695042,
-      "date": 1765828800000
+      "date": 1761163200000
     },
     {
       "name": "Ben10-V1",
@@ -49,7 +79,7 @@
       "preview": "previews/gif/Ben10-V1.gif",
       "from": "discord",
       "id": 4189160,
-      "date": 1765897200000
+      "date": 1761231600000
     },
     {
       "name": "Black Balls",
@@ -59,7 +89,7 @@
       "preview": "previews/gif/Black_balls.gif",
       "from": "discord",
       "id": 1878216,
-      "date": 1765836000000
+      "date": 1761170400000
     },
     {
       "name": "Blending Blur",
@@ -69,7 +99,7 @@
       "preview": "previews/gif/Blending_Blur_Tail.gif",
       "from": "discord",
       "id": 1854992,
-      "date": 1765893600000
+      "date": 1761228000000
     },
     {
       "name": "Bowser Jr.",
@@ -79,7 +109,7 @@
       "preview": "previews/gif/Bowser_Jr..gif",
       "from": "discord",
       "id": 8081890,
-      "date": 1765904400000
+      "date": 1761238800000
     },
     {
       "name": "Castle Crashers",
@@ -89,7 +119,7 @@
       "preview": "previews/gif/Castle_Crashers.gif",
       "from": "discord",
       "id": 1953812,
-      "date": 1765868400000
+      "date": 1761202800000
     },
     {
       "name": "Christmas stuff",
@@ -99,7 +129,7 @@
       "preview": "previews/gif/Christmas_stuff.gif",
       "from": "discord",
       "id": 1126553,
-      "date": 1765890000000
+      "date": 1761224400000
     },
     {
       "name": "Cloudzv2",
@@ -109,7 +139,7 @@
       "preview": "previews/gif/Cloudzv2.gif",
       "from": "discord",
       "id": 2556324,
-      "date": 1765900800000
+      "date": 1761235200000
     },
     {
       "name": "Coloured Bubbles",
@@ -119,7 +149,7 @@
       "preview": "previews/gif/Coloured_Bubbles.gif",
       "from": "discord",
       "id": 2459295,
-      "date": 1765843200000
+      "date": 1761177600000
     },
     {
       "name": "Colours that look like coffre",
@@ -140,6 +170,16 @@
       "preview": "previews/gif/Cool_shapes.gif",
       "from": "website",
       "date": 1765990800000
+    },
+    {
+      "name": "Crushers",
+      "id": 7022126,
+      "creator": "stars",
+      "description": "skull crusher teeth ",
+      "file": "wallpapers/Crushers.tendies",
+      "preview": "previews/gif/Crushers.gif",
+      "date": 1767125830158,
+      "from": "website"
     },
     {
       "name": "Death Note ",
@@ -169,7 +209,7 @@
       "file": "wallpapers/Dragon_Ball.tendies",
       "preview": "previews/gif/Dragon_Ball.gif",
       "from": "website",
-      "date": 1765947600000
+      "date": 1761282000000
     },
     {
       "name": "Ender Chest",
@@ -179,7 +219,17 @@
       "preview": "previews/gif/Ender_Chest.gif",
       "from": "discord",
       "id": 1201758,
-      "date": 1765825200000
+      "date": 1761159600000
+    },
+    {
+      "name": "Erynox Mountains!",
+      "id": 1562130,
+      "creator": "Erynox",
+      "description": "I really love mountains a lot.",
+      "file": "wallpapers/Erynox_Mountains_.tendies",
+      "preview": "previews/gif/Erynox_Mountains_.gif",
+      "from": "website",
+      "date": 1767471906840
     },
     {
       "name": "Fantastic Four",
@@ -189,7 +239,7 @@
       "preview": "previews/gif/Fantastic_Four.gif",
       "from": "discord",
       "id": 7941155,
-      "date": 1765886400000
+      "date": 1761220800000
     },
     {
       "name": "Floating Spiderman with Gyro",
@@ -199,7 +249,7 @@
       "file": "wallpapers/Floating_Spider_Man_with_gyro.tendies",
       "preview": "previews/gif/Floating_Spider_Man_with_gyro.gif",
       "from": "website",
-      "date": 1765918800000
+      "date": 1761253200000
     },
     {
       "name": "Floating Spiderman",
@@ -209,7 +259,7 @@
       "preview": "previews/gif/Floating_Spiderman.gif",
       "from": "discord",
       "id": 7689347,
-      "date": 1765911600000
+      "date": 1761246000000
     },
     {
       "name": "GBA Animated",
@@ -219,7 +269,7 @@
       "file": "wallpapers/GBA_Animated.tendies",
       "preview": "previews/gif/GBA_Animated.gif",
       "from": "discord",
-      "date": 1765774800000
+      "date": 1761109100000
     },
     {
       "name": "GitHub",
@@ -229,7 +279,17 @@
       "file": "wallpapers/GitHub.tendies",
       "preview": "previews/gif/GitHub.gif",
       "from": "Discord",
-      "date": 1765778400000
+      "date": 1761112800000
+    },
+    {
+      "name": "GlamRock Freddy FNaF 9",
+      "id": 5548714,
+      "creator": "TosterSKP!",
+      "description": "I made this wallpaper for those who are into FNAF.",
+      "file": "wallpapers/GlamRock_Freddy_FNaF_9.tendies",
+      "preview": "previews/gif/GlamRock_Freddy_FNaF_9.gif",
+      "from": "website",
+      "date": 1767471906840
     },
     {
       "name": "Green Porche 911 GT3 RS",
@@ -239,7 +299,7 @@
       "preview": "previews/gif/Green_Porche_911_GT3_RS.gif",
       "from": "discord",
       "id": 9612103,
-      "date": 1765879200000
+      "date": 1761213600000
     },
     {
       "name": "Gyro Parallax 3D",
@@ -259,7 +319,17 @@
       "file": "wallpapers/Hatsune-Miku.tendies",
       "preview": "previews/gif/hatsune-miku.gif",
       "from": "website",
-      "date": 1765951200000
+      "date": 1761285600000
+    },
+    {
+      "name": "Hermès Paris",
+      "id": 7765909,
+      "creator": "CERCISE",
+      "description": "Hermes",
+      "file": "wallpapers/Herm_s_Paris.tendies",
+      "preview": "previews/gif/Herm_s_Paris.gif",
+      "date": 1766600441176,
+      "from": "website"
     },
     {
       "name": "Huawei Palms",
@@ -292,6 +362,16 @@
       "date": 1765969200000
     },
     {
+      "name": "Initial D Wallpaper",
+      "id": 1209537,
+      "creator": "saifziani",
+      "description": "Well Well Well  finally a non-gooner Wallpaper here...",
+      "file": "wallpapers/Initial_D_Wallpaper.tendies",
+      "preview": "previews/gif/Initial_D_Wallpaper.gif",
+      "date": 1766949518299,
+      "from": "website"
+    },
+    {
       "name": "Itsuki Nakano (TQQ)",
       "id": 4575846,
       "creator": "chokunplayz",
@@ -312,6 +392,36 @@
       "date": 1766008800000
     },
     {
+      "name": "LBJ",
+      "id": 8238177,
+      "creator": "l01",
+      "description": "LeBron James,2018 Cavaliers，23",
+      "file": "wallpapers/LBJ.tendies",
+      "preview": "previews/gif/LBJ.gif",
+      "date": 1767097295157,
+      "from": "website"
+    },
+    {
+      "name": "LVpassportFR",
+      "id": 7135758,
+      "creator": "ttoff999",
+      "description": "Create with \n# https://caplayground.vercel.app/ By TTOFF999",
+      "file": "wallpapers/LVpassportFR.tendies",
+      "preview": "previews/gif/LVpassportFR.gif",
+      "date": 1766848421657,
+      "from": "website"
+    },
+    {
+      "name": "Layer Cake",
+      "id": 8479603,
+      "creator": "Ponderdev",
+      "description": "Interactive layer wallpaper",
+      "file": "wallpapers/Layer_Cake.tendies",
+      "preview": "previews/gif/Layer_Cake.gif",
+      "date": 1767212451178,
+      "from": "website"
+    },
+    {
       "name": "Lightning McQueen",
       "creator": "lordrezon",
       "description": "Made with Cap, shows Lightning McQueen",
@@ -319,7 +429,7 @@
       "preview": "previews/gif/Lightning_McQueen.gif",
       "from": "discord",
       "id": 4618572,
-      "date": 1765882800000
+      "date": 1761217200000
     },
     {
       "name": "Luffy Gear 5",
@@ -329,7 +439,17 @@
       "preview": "previews/gif/Luffy_Gear_5.gif",
       "from": "discord",
       "id": 5883484,
-      "date": 1765832400000
+      "date": 1761166800000
+    },
+    {
+      "name": "MajdataPlay XXLB 小小蓝白",
+      "id": 5563166,
+      "creator": "Fan DoraXXX",
+      "description": "From game MajdataPlay LingFeng-bbben/MajdataPlay Ver1.1.0",
+      "file": "wallpapers/MajdataPlay_XXLB_____.tendies",
+      "preview": "previews/gif/MajdataPlay_XXLB_____.gif",
+      "from": "website",
+      "date": 1766418079828
     },
     {
       "name": "Manhattan Cafe",
@@ -349,7 +469,7 @@
       "file": "wallpapers/Manosaba_Gyro.tendies",
       "preview": "previews/gif/Manosaba_Gyro.gif",
       "from": "website",
-      "date": 1765929600000
+      "date": 1761264000000
     },
     {
       "name": "Meowl Dancing",
@@ -359,7 +479,17 @@
       "file": "wallpapers/Meowl_Dancing.tendies",
       "preview": "previews/gif/Meowl_Dancing.gif",
       "from": "website",
-      "date": 1765915200000
+      "date": 1761249600000
+    },
+    {
+      "name": "Miku Depth Effect",
+      "id": 3866671,
+      "creator": "wQx",
+      "description": "Picture source:@unnyo_8986 from X.",
+      "file": "wallpapers/Miku_Depth_Effect.tendies",
+      "preview": "previews/gif/Miku_Depth_Effect.gif",
+      "from": "website",
+      "date": 1767471906840
     },
     {
       "name": "Moe-Style Zenitsu",
@@ -369,7 +499,7 @@
       "file": "wallpapers/Moe-Style-Zenitsu.tendies",
       "preview": "previews/gif/moe-style-zenitsu.gif",
       "from": "website",
-      "date": 1765962000000
+      "date": 1761296400000
     },
     {
       "name": "Monster Mouth",
@@ -379,7 +509,7 @@
       "preview": "previews/gif/Monster_Mouth.gif",
       "from": "discord",
       "id": 9605235,
-      "date": 1765821600000
+      "date": 1761156000000
     },
     {
       "name": "Mr Krabs drowning",
@@ -389,7 +519,7 @@
       "preview": "previews/gif/Mr_krabs_drowning.gif",
       "from": "discord",
       "id": 3760245,
-      "date": 1765864800000
+      "date": 1761199200000
     },
     {
       "name": "Nakano Nino (The Quintessential Quintuplet)",
@@ -399,7 +529,7 @@
       "file": "wallpapers/Nakano_Nino_The_Quintessential_Quintuplet_.tendies",
       "preview": "previews/gif/Nakano_Nino_The_Quintessential_Quintuplet_.gif",
       "from": "website",
-      "date": 1765926000000
+      "date": 1761260400000
     },
     {
       "name": "Nezuko - Demon Slayer",
@@ -409,7 +539,7 @@
       "file": "wallpapers/Nezuko-DS.tendies",
       "preview": "previews/gif/Nezuko-DS.gif",
       "from": "website",
-      "date": 1765958400000
+      "date": 1761292800000
     },
     {
       "name": "Nintendo Gameboy",
@@ -419,7 +549,7 @@
       "file": "wallpapers/Nintendo_Gameboy.tendies",
       "preview": "previews/gif/Nintendo_Gameboy.gif",
       "from": "Discord",
-      "date": 1765785600000
+      "date": 1761120000000
     },
     {
       "name": "Nintendo Switch 2 X Mario Kart 9 (AOD)",
@@ -429,7 +559,7 @@
       "file": "wallpapers/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.tendies",
       "preview": "previews/gif/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.gif",
       "from": "website",
-      "date": 1765922400000
+      "date": 1761256800000
     },
     {
       "name": "NokiaLV",
@@ -439,7 +569,7 @@
       "file": "wallpapers/NokiaLV.tendies",
       "preview": "previews/gif/NokiaLV.gif",
       "from": "Discord",
-      "date": 1765807200000
+      "date": 1761141600000
     },
     {
       "name": "OguriCap(Umamusume:PD)",
@@ -499,7 +629,7 @@
       "file": "wallpapers/Red_balls.tendies",
       "preview": "previews/gif/Red_balls.gif",
       "from": "website",
-      "date": 1765936800000
+      "date": 1761271200000
     },
     {
       "name": "Rice Shower(Umamusume:PD)",
@@ -519,7 +649,7 @@
       "preview": "previews/gif/Rolling_hills_(Demo).gif",
       "from": "discord",
       "id": 8670238,
-      "date": 1765854000000
+      "date": 1761188400000
     },
     {
       "name": "Sadboy",
@@ -542,6 +672,16 @@
       "from": "website"
     },
     {
+      "name": "Shin chan",
+      "id": 2718841,
+      "creator": "spy_g",
+      "description": "AOD supoort included, Follow my twitter spy_g_. Dont steal",
+      "file": "wallpapers/Shin_chan.tendies",
+      "preview": "previews/gif/Shin_chan.gif",
+      "from": "website",
+      "date": 1766418079828
+    },
+    {
       "name": "SideStore",
       "id": "0000012",
       "creator": "gdnnpc",
@@ -549,7 +689,7 @@
       "file": "wallpapers/SideStore.tendies",
       "preview": "previews/gif/SideStore.gif",
       "from": "Discord",
-      "date": 1765814400000
+      "date": 1761148800000
     },
     {
       "name": "Simple Minecraft Chest",
@@ -559,7 +699,17 @@
       "preview": "previews/gif/Simple_Minecraft_Chest.gif",
       "from": "discord",
       "id": 2382626,
-      "date": 1765818000000
+      "date": 1761152400000
+    },
+    {
+      "name": "Snoopy V2",
+      "id": 9232798,
+      "creator": "spy_g",
+      "description": "Snoopy in the snow V2",
+      "file": "wallpapers/Snoopy_V2.tendies",
+      "preview": "previews/gif/Snoopy_V2.gif",
+      "date": 1766344009710,
+      "from": "website"
     },
     {
       "name": "Snoopy in the Snow",
@@ -569,7 +719,7 @@
       "preview": "previews/gif/Snoopy_in_the_snow.gif",
       "from": "discord",
       "id": 8051033,
-      "date": 1765846800000
+      "date": 1761181200000
     },
     {
       "name": "Snow Emitters",
@@ -579,7 +729,7 @@
       "preview": "previews/gif/Snow_Emitters.gif",
       "from": "discord",
       "id": 3827285,
-      "date": 1765839600000
+      "date": 1761174000000
     },
     {
       "name": "Spider-Man",
@@ -599,7 +749,7 @@
       "file": "wallpapers/Spiderman.tendies",
       "preview": "previews/gif/Spiderman.gif",
       "from": "Discord",
-      "date": 1765803600000
+      "date": 1761138000000
     },
     {
       "name": "Spidey spin",
@@ -609,7 +759,7 @@
       "file": "wallpapers/Spidey_spin.tendies",
       "preview": "previews/gif/Spidey_spin.gif",
       "from": "website",
-      "date": 1765944000000
+      "date": 1761278400000
     },
     {
       "name": "Spinning Squares",
@@ -619,7 +769,7 @@
       "file": "wallpapers/Spinning_Squares.tendies",
       "preview": "previews/gif/Spinning_Squares.gif",
       "from": "Discord",
-      "date": 1765810800000
+      "date": 1761145200000
     },
     {
       "name": "Spongbob",
@@ -632,6 +782,26 @@
       "date": 1765980000000
     },
     {
+      "name": "THH Case 6",
+      "id": 4423476,
+      "creator": "MakotoNaeg",
+      "description": "JUNKO ENOSHIMA! (Also work on AoD)",
+      "file": "wallpapers/THH_Case_6.tendies",
+      "preview": "previews/gif/THH_Case_6.gif",
+      "date": 1767427036641,
+      "from": "website"
+    },
+    {
+      "name": "The Metamorphosis",
+      "id": 9479358,
+      "creator": "Moroshka239",
+      "description": "Franz Kafka - Metamorphosis wallpaper",
+      "file": "wallpapers/The_Metamorphosis.tendies",
+      "preview": "previews/gif/The_Metamorphosis.gif",
+      "date": 1766654471855,
+      "from": "website"
+    },
+    {
       "name": "Tva poster",
       "id": 2832098,
       "creator": "spy_g",
@@ -639,7 +809,7 @@
       "file": "wallpapers/Tva_poster.tendies",
       "preview": "previews/gif/Tva_poster.gif",
       "from": "website",
-      "date": 1765940400000
+      "date": 1761274800000
     },
     {
       "name": "UNDERTALE Parallax Wallpaper",
@@ -669,7 +839,7 @@
       "file": "wallpapers/WATCH26.tendies",
       "preview": "previews/gif/WATCH26.gif",
       "from": "discord",
-      "date": 1765782000000
+      "date": 1761116400000
     },
     {
       "name": "Warm Horizon",
@@ -689,7 +859,7 @@
       "file": "wallpapers/Zenitsu-DS.tendies",
       "preview": "previews/gif/zenitsu-DS.gif",
       "from": "website",
-      "date": 1765954800000
+      "date": 1761289200000
     },
     {
       "name": "Zootopia",
@@ -719,7 +889,17 @@
       "preview": "previews/gif/arch.gif",
       "from": "discord",
       "id": 3256651,
-      "date": 1765908000000
+      "date": 1761242400000
+    },
+    {
+      "name": "bocchi the rock 🗿",
+      "id": 5729661,
+      "creator": "KawaiiChtz",
+      "description": "💛💙",
+      "file": "wallpapers/bocchi_the_rock___.tendies",
+      "preview": "previews/gif/bocchi_the_rock___.gif",
+      "date": 1767257404437,
+      "from": "website"
     },
     {
       "name": "CAPlayground",
@@ -729,7 +909,7 @@
       "file": "wallpapers/caplayground.tendies",
       "preview": "previews/gif/caplayground.gif",
       "from": "Discord",
-      "date": 1765792800000
+      "date": 1761127200000
     },
     {
       "name": "Discord",
@@ -739,7 +919,7 @@
       "preview": "previews/gif/discord.gif",
       "from": "discord",
       "id": 2063461,
-      "date": 1765850400000
+      "date": 1761184800000
     },
     {
       "name": "drukqs",
@@ -749,7 +929,17 @@
       "file": "wallpapers/drukqs.tendies",
       "preview": "previews/gif/drukqs.gif",
       "from": "Discord",
-      "date": 1765789200000
+      "date": 1761123600000
+    },
+    {
+      "name": "enchanted love",
+      "id": 2091018,
+      "creator": "Fan DoraXXX",
+      "description": "enchanted love v1.0\nOriginal from linear ring\nArt by 锥虫蓝\n",
+      "file": "wallpapers/enchanted_love.tendies",
+      "preview": "previews/gif/enchanted_love.gif",
+      "date": 1766828059221,
+      "from": "website"
     },
     {
       "name": "Google",
@@ -759,7 +949,7 @@
       "file": "wallpapers/google.tendies",
       "preview": "previews/gif/google.gif",
       "from": "Discord",
-      "date": 1765800000000
+      "date": 1761134400000
     },
     {
       "name": "iPhone 16 White Titanium",
@@ -769,7 +959,7 @@
       "file": "wallpapers/iPhone_16_White_Titanium.tendies",
       "preview": "previews/gif/iPhone_16_White_Titanium.gif",
       "from": "website",
-      "date": 1765965600000
+      "date": 1761300000000
     },
     {
       "name": "iPhone 16 Pro Max Blue",
@@ -779,7 +969,7 @@
       "file": "wallpapers/iPhone_16_pro_max_blue.tendies",
       "preview": "previews/gif/iPhone_16_pro_max_blue.gif",
       "from": "website",
-      "date": 1765933200000
+      "date": 1761267600000
     },
     {
       "name": "iPhone Air - SkyBlue All",
@@ -789,7 +979,27 @@
       "preview": "previews/gif/iPhone_Air_-_SkyBlue_for_All.gif",
       "from": "discord",
       "id": 6276423,
-      "date": 1765875600000
+      "date": 1761210000000
+    },
+    {
+      "name": "iPhone Air ",
+      "id": 6876191,
+      "creator": "calinoose1 2",
+      "description": "Space black & Cloud white \n(L&D)",
+      "file": "wallpapers/iPhone_Air_.tendies",
+      "preview": "previews/gif/iPhone_Air_.gif",
+      "from": "website",
+      "date": 1767471906840
+    },
+    {
+      "name": "iPhone Air Violet AOD",
+      "id": 4306308,
+      "creator": "Алексей Сергеевич",
+      "description": "Simple wallpapers just with AOD animation.",
+      "file": "wallpapers/iPhone_Air_Violet_AOD.tendies",
+      "preview": "previews/gif/iPhone_Air_Violet_AOD.gif",
+      "from": "website",
+      "date": 1767471906840
     },
     {
       "name": "iPhone 16 Pro - Desert All",
@@ -799,7 +1009,27 @@
       "preview": "previews/gif/iphone16proDesert4all.gif",
       "from": "discord",
       "id": 8630679,
-      "date": 1765872000000
+      "date": 1761206400000
+    },
+    {
+      "name": "murasameVer.1",
+      "id": 6820449,
+      "creator": "wryee",
+      "description": "Happy YUZUSOFT~",
+      "file": "wallpapers/murasameVer_1.tendies",
+      "preview": "previews/gif/murasameVer_1.gif",
+      "date": 1767347993092,
+      "from": "website"
+    },
+    {
+      "name": "positions",
+      "id": 9454512,
+      "creator": "charlixcx",
+      "description": "positions by ariana grande :3",
+      "file": "wallpapers/positions.tendies",
+      "preview": "previews/gif/positions.gif",
+      "date": 1766830499167,
+      "from": "website"
     },
     {
       "name": "pumpkin",
@@ -809,7 +1039,7 @@
       "preview": "previews/gif/pumpkin.gif",
       "from": "discord",
       "id": 1038971,
-      "date": 1765861200000
+      "date": 1761195600000
     },
     {
       "name": "techtoker wallpapprr",
@@ -819,7 +1049,7 @@
       "file": "wallpapers/techtoker_wallpapprr.tendies",
       "preview": "previews/gif/techtoker_wallpapprr.gif",
       "from": "Discord",
-      "date": 1765796400000
+      "date": 1761130800000
     }
   ]
 }
