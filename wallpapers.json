@@ -32,6 +32,16 @@
       "date": 1766052000000
     },
     {
+      "name": "Arch 3D",
+      "id": 3645303,
+      "creator": "whitemcwizard",
+      "description": "The arch logo with gyro ",
+      "file": "wallpapers/Arch_3D.tendies",
+      "preview": "previews/gif/Arch_3D.gif",
+      "from": "website",
+      "date": 1767471906840
+    },
+    {
       "name": "Autumn City",
       "creator": "gdnnpc",
       "description": "Autumn themed wallpaper with falling leaves",
@@ -212,6 +222,16 @@
       "date": 1761159600000
     },
     {
+      "name": "Erynox Mountains!",
+      "id": 1562130,
+      "creator": "Erynox",
+      "description": "I really love mountains a lot.",
+      "file": "wallpapers/Erynox_Mountains_.tendies",
+      "preview": "previews/gif/Erynox_Mountains_.gif",
+      "from": "website",
+      "date": 1767471906840
+    },
+    {
       "name": "Fantastic Four",
       "creator": "spy_g_was_silenced",
       "description": "FF",
@@ -260,6 +280,16 @@
       "preview": "previews/gif/GitHub.gif",
       "from": "Discord",
       "date": 1761112800000
+    },
+    {
+      "name": "GlamRock Freddy FNaF 9",
+      "id": 5548714,
+      "creator": "TosterSKP!",
+      "description": "I made this wallpaper for those who are into FNAF.",
+      "file": "wallpapers/GlamRock_Freddy_FNaF_9.tendies",
+      "preview": "previews/gif/GlamRock_Freddy_FNaF_9.gif",
+      "from": "website",
+      "date": 1767471906840
     },
     {
       "name": "Green Porche 911 GT3 RS",
@@ -332,6 +362,16 @@
       "date": 1765969200000
     },
     {
+      "name": "Initial D Wallpaper",
+      "id": 1209537,
+      "creator": "saifziani",
+      "description": "Well Well Well  finally a non-gooner Wallpaper here...",
+      "file": "wallpapers/Initial_D_Wallpaper.tendies",
+      "preview": "previews/gif/Initial_D_Wallpaper.gif",
+      "date": 1766949518299,
+      "from": "website"
+    },
+    {
       "name": "Itsuki Nakano (TQQ)",
       "id": 4575846,
       "creator": "chokunplayz",
@@ -369,6 +409,16 @@
       "file": "wallpapers/LVpassportFR.tendies",
       "preview": "previews/gif/LVpassportFR.gif",
       "date": 1766848421657,
+      "from": "website"
+    },
+    {
+      "name": "Layer Cake",
+      "id": 8479603,
+      "creator": "Ponderdev",
+      "description": "Interactive layer wallpaper",
+      "file": "wallpapers/Layer_Cake.tendies",
+      "preview": "previews/gif/Layer_Cake.gif",
+      "date": 1767212451178,
       "from": "website"
     },
     {
@@ -430,6 +480,16 @@
       "preview": "previews/gif/Meowl_Dancing.gif",
       "from": "website",
       "date": 1761249600000
+    },
+    {
+      "name": "Miku Depth Effect",
+      "id": 3866671,
+      "creator": "wQx",
+      "description": "Picture source:@unnyo_8986 from X.",
+      "file": "wallpapers/Miku_Depth_Effect.tendies",
+      "preview": "previews/gif/Miku_Depth_Effect.gif",
+      "from": "website",
+      "date": 1767471906840
     },
     {
       "name": "Moe-Style Zenitsu",
@@ -642,6 +702,16 @@
       "date": 1761152400000
     },
     {
+      "name": "Snoopy V2",
+      "id": 9232798,
+      "creator": "spy_g",
+      "description": "Snoopy in the snow V2",
+      "file": "wallpapers/Snoopy_V2.tendies",
+      "preview": "previews/gif/Snoopy_V2.gif",
+      "date": 1766344009710,
+      "from": "website"
+    },
+    {
       "name": "Snoopy in the Snow",
       "creator": "spy_g_was_silenced",
       "description": "Snoppy",
@@ -710,6 +780,16 @@
       "preview": "previews/gif/Spongbob.gif",
       "from": "website",
       "date": 1765980000000
+    },
+    {
+      "name": "THH Case 6",
+      "id": 4423476,
+      "creator": "MakotoNaeg",
+      "description": "JUNKO ENOSHIMA! (Also work on AoD)",
+      "file": "wallpapers/THH_Case_6.tendies",
+      "preview": "previews/gif/THH_Case_6.gif",
+      "date": 1767427036641,
+      "from": "website"
     },
     {
       "name": "The Metamorphosis",
@@ -812,6 +892,16 @@
       "date": 1761242400000
     },
     {
+      "name": "bocchi the rock 🗿",
+      "id": 5729661,
+      "creator": "KawaiiChtz",
+      "description": "💛💙",
+      "file": "wallpapers/bocchi_the_rock___.tendies",
+      "preview": "previews/gif/bocchi_the_rock___.gif",
+      "date": 1767257404437,
+      "from": "website"
+    },
+    {
       "name": "CAPlayground",
       "id": "0000006",
       "creator": "3dme0711",
@@ -892,6 +982,26 @@
       "date": 1761210000000
     },
     {
+      "name": "iPhone Air ",
+      "id": 6876191,
+      "creator": "calinoose1 2",
+      "description": "Space black & Cloud white \n(L&D)",
+      "file": "wallpapers/iPhone_Air_.tendies",
+      "preview": "previews/gif/iPhone_Air_.gif",
+      "from": "website",
+      "date": 1767471906840
+    },
+    {
+      "name": "iPhone Air Violet AOD",
+      "id": 4306308,
+      "creator": "Алексей Сергеевич",
+      "description": "Simple wallpapers just with AOD animation.",
+      "file": "wallpapers/iPhone_Air_Violet_AOD.tendies",
+      "preview": "previews/gif/iPhone_Air_Violet_AOD.gif",
+      "from": "website",
+      "date": 1767471906840
+    },
+    {
       "name": "iPhone 16 Pro - Desert All",
       "creator": "zezora8eb",
       "description": "iphone 16 pro desert wallpaper for all devices, Enjoy",
@@ -900,6 +1010,26 @@
       "from": "discord",
       "id": 8630679,
       "date": 1761206400000
+    },
+    {
+      "name": "murasameVer.1",
+      "id": 6820449,
+      "creator": "wryee",
+      "description": "Happy YUZUSOFT~",
+      "file": "wallpapers/murasameVer_1.tendies",
+      "preview": "previews/gif/murasameVer_1.gif",
+      "date": 1767347993092,
+      "from": "website"
+    },
+    {
+      "name": "positions",
+      "id": 9454512,
+      "creator": "charlixcx",
+      "description": "positions by ariana grande :3",
+      "file": "wallpapers/positions.tendies",
+      "preview": "previews/gif/positions.gif",
+      "date": 1766830499167,
+      "from": "website"
     },
     {
       "name": "pumpkin",
