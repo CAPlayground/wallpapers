@@ -132,6 +132,16 @@
       "date": 1761238800000
     },
     {
+      "name": "Car in space",
+      "id": 8711925,
+      "creator": "spy_g",
+      "description": "Wroom",
+      "file": "wallpapers/Car_in_space.tendies",
+      "preview": "previews/gif/Car_in_space.gif",
+      "date": 1767559863153,
+      "from": "website"
+    },
+    {
       "name": "Castle Crashers",
       "creator": "dreigned",
       "description": "A blast from the past! Simple but clean",
@@ -199,6 +209,16 @@
       "file": "wallpapers/Crushers.tendies",
       "preview": "previews/gif/Crushers.gif",
       "date": 1767125830158,
+      "from": "website"
+    },
+    {
+      "name": "Danganronpa V3 Case 2",
+      "id": 7312167,
+      "creator": "MakotoNaeg",
+      "description": "Kirumi tojo😭",
+      "file": "wallpapers/Danganronpa_V3_Case_2.tendies",
+      "preview": "previews/gif/Danganronpa_V3_Case_2.gif",
+      "date": 1767541026063,
       "from": "website"
     },
     {
@@ -359,6 +379,16 @@
       "file": "wallpapers/HUAWEI.tendies",
       "preview": "previews/gif/HUAWEI.gif",
       "date": 1767942779790,
+      "from": "website"
+    },
+    {
+      "name": "Hamster playing tennis",
+      "id": 1553791,
+      "creator": "Onerock",
+      "description": "Tennis",
+      "file": "wallpapers/Hamster_playing_tennis.tendies",
+      "preview": "previews/gif/Hamster_playing_tennis.gif",
+      "date": 1767544356207,
       "from": "website"
     },
     {
@@ -962,6 +992,16 @@
       "date": 1765983600000
     },
     {
+      "name": "日常",
+      "id": 5846609,
+      "creator": "Four_Rhythm_04",
+      "description": "测试机15pro，有全天候显示，原图出处X@haruno_168",
+      "file": "wallpapers/__.tendies",
+      "preview": "previews/gif/__.gif",
+      "date": 1767357389398,
+      "from": "website"
+    },
+    {
       "name": "鸣潮Wuthering Waves ninnai&moning",
       "id": 4776964,
       "creator": "QL C",
@@ -1040,6 +1080,15 @@
       "preview": "previews/gif/google.gif",
       "from": "Discord",
       "date": 1761134400000
+    },
+    {
+      "name": "iPadOS ",
+      "id": 1313325,
+      "creator": "calinoose1 2",
+      "description": "(L&D)",
+      "file": "wallpapers/iPadOS_.tendies",
+      "preview": "previews/gif/iPadOS_.gif",
+      "from": "website"
     },
     {
       "name": "iPhone 16 White Titanium",
