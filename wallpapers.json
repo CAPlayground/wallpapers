@@ -322,6 +322,16 @@
       "date": 1766012400000
     },
     {
+      "name": "HUAWEI",
+      "id": 9630365,
+      "creator": "marcobolo",
+      "description": "JIAYOUHUAWEI",
+      "file": "wallpapers/HUAWEI.tendies",
+      "preview": "previews/gif/HUAWEI.gif",
+      "date": 1767942779790,
+      "from": "website"
+    },
+    {
       "name": "Hatsune Miku",
       "id": 9372814,
       "creator": "ysbz",
@@ -679,6 +689,16 @@
       "file": "wallpapers/Rubik_s_Cube.tendies",
       "preview": "previews/gif/Rubik_s_Cube.gif",
       "date": 1767544882943,
+      "from": "website"
+    },
+    {
+      "name": "SU-57",
+      "id": 8474319,
+      "creator": "lev",
+      "description": "SU-57 Wallpaper",
+      "file": "wallpapers/SU_57.tendies",
+      "preview": "previews/gif/SU_57.gif",
+      "date": 1767892099009,
       "from": "website"
     },
     {
