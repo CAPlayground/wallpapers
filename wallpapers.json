@@ -192,6 +192,16 @@
       "date": 1766041200000
     },
     {
+      "name": "Death Star",
+      "id": 5630334,
+      "creator": "lev",
+      "description": "Death Star construction completion",
+      "file": "wallpapers/Death_Star.tendies",
+      "preview": "previews/gif/Death_Star.gif",
+      "date": 1767890323105,
+      "from": "website"
+    },
+    {
       "name": "Deltarune and Undertale",
       "id": 6113197,
       "creator": "ValeNotPro328",
