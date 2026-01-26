@@ -252,6 +252,16 @@
       "from": "website"
     },
     {
+      "name": "Doki Doki Literature Club!",
+      "id": 2750255,
+      "creator": "Okidoki",
+      "description": "DDLC",
+      "file": "wallpapers/Doki_Doki_Literature_Club__________.tendies",
+      "preview": "previews/gif/Doki_Doki_Literature_Club__________.gif",
+      "date": 1768576112377,
+      "from": "website"
+    },
+    {
       "name": "Dragon Ball",
       "id": 5733952,
       "creator": "Tattoist",
@@ -712,6 +722,16 @@
       "date": 1766016000000
     },
     {
+      "name": "REZE",
+      "id": 4738855,
+      "creator": "GeoDefhan",
+      "description": "reze",
+      "file": "wallpapers/REZE.tendies",
+      "preview": "previews/gif/REZE.gif",
+      "date": 1768664938021,
+      "from": "website"
+    },
+    {
       "name": "Red Balls",
       "id": 2684411,
       "creator": "spy_g",
@@ -909,6 +929,16 @@
       "file": "wallpapers/The_Metamorphosis.tendies",
       "preview": "previews/gif/The_Metamorphosis.gif",
       "date": 1766654471855,
+      "from": "website"
+    },
+    {
+      "name": "Transformers Star Convoy",
+      "id": 4983297,
+      "creator": "movie_tickets",
+      "description": "Inspired by official Transformers artwork",
+      "file": "wallpapers/Transformers_Star_Convoy.tendies",
+      "preview": "previews/gif/Transformers_Star_Convoy.gif",
+      "date": 1768702992430,
       "from": "website"
     },
     {
