@@ -252,6 +252,16 @@
       "from": "website"
     },
     {
+      "name": "Doki Doki Literature Club!",
+      "id": 2750255,
+      "creator": "Okidoki",
+      "description": "DDLC",
+      "file": "wallpapers/Doki_Doki_Literature_Club__________.tendies",
+      "preview": "previews/gif/Doki_Doki_Literature_Club__________.gif",
+      "date": 1768576112377,
+      "from": "website"
+    },
+    {
       "name": "Dragon Ball",
       "id": 5733952,
       "creator": "Tattoist",
@@ -260,6 +270,16 @@
       "preview": "previews/gif/Dragon_Ball.gif",
       "from": "website",
       "date": 1761282000000
+    },
+    {
+      "name": "Emoji 3D",
+      "id": 2859342,
+      "creator": "Xiaohui",
+      "description": "借鉴Tattoist魔方效果做出来的壁纸",
+      "file": "wallpapers/Emoji_3D.tendies",
+      "preview": "previews/gif/Emoji_3D.gif",
+      "date": 1768633971591,
+      "from": "website"
     },
     {
       "name": "Ender Chest",
@@ -712,6 +732,16 @@
       "date": 1766016000000
     },
     {
+      "name": "REZE",
+      "id": 4738855,
+      "creator": "GeoDefhan",
+      "description": "reze",
+      "file": "wallpapers/REZE.tendies",
+      "preview": "previews/gif/REZE.gif",
+      "date": 1768664938021,
+      "from": "website"
+    },
+    {
       "name": "Red Balls",
       "id": 2684411,
       "creator": "spy_g",
@@ -912,6 +942,26 @@
       "from": "website"
     },
     {
+      "name": "Tokai Teio (umamusume)",
+      "id": 3034897,
+      "creator": "Kleenxd",
+      "description": "Tokai Teio wallpaper",
+      "file": "wallpapers/Tokai_Teio__umamusume_.tendies",
+      "preview": "previews/gif/Tokai_Teio__umamusume_.gif",
+      "date": 1768813360512,
+      "from": "website"
+    },
+    {
+      "name": "Transformers Star Convoy",
+      "id": 4983297,
+      "creator": "movie_tickets",
+      "description": "Inspired by official Transformers artwork",
+      "file": "wallpapers/Transformers_Star_Convoy.tendies",
+      "preview": "previews/gif/Transformers_Star_Convoy.gif",
+      "date": 1768702992430,
+      "from": "website"
+    },
+    {
       "name": "Tva poster",
       "id": 2832098,
       "creator": "spy_g",
@@ -992,16 +1042,6 @@
       "date": 1765983600000
     },
     {
-      "name": "日常",
-      "id": 5846609,
-      "creator": "Four_Rhythm_04",
-      "description": "测试机15pro，有全天候显示，原图出处X@haruno_168",
-      "file": "wallpapers/__.tendies",
-      "preview": "previews/gif/__.gif",
-      "date": 1767357389398,
-      "from": "website"
-    },
-    {
       "name": "鸣潮Wuthering Waves ninnai&moning",
       "id": 4776964,
       "creator": "QL C",
@@ -1040,6 +1080,16 @@
       "preview": "previews/gif/caplayground.gif",
       "from": "Discord",
       "date": 1761127200000
+    },
+    {
+      "name": "日常",
+      "id": 5846609,
+      "creator": "Four_Rhythm_04",
+      "description": "测试机15pro，有全天候显示，原图出处X@haruno_168",
+      "file": "wallpapers/daily.tendies",
+      "preview": "previews/gif/__.gif",
+      "date": 1767357389398,
+      "from": "website"
     },
     {
       "name": "Discord",

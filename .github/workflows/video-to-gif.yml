@@ -1,3 +1,7 @@
+concurrency:
+  group: auto-push-${{ github.ref }}
+  cancel-in-progress: false
+
 name: Convert Videos to GIFs
 on:
   push:
