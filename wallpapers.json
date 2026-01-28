@@ -32,6 +32,16 @@
       "date": 1766052000000
     },
     {
+      "name": "Apple Park (Maps)",
+      "id": 2084169,
+      "creator": "enkei64",
+      "description": "Animated Apple Park maps wallpaper",
+      "file": "wallpapers/Apple_Park__Maps_.tendies",
+      "preview": "previews/gif/Apple_Park__Maps_.gif",
+      "date": 1769603612463,
+      "from": "website"
+    },
+    {
       "name": "Arch 3D",
       "id": 3645303,
       "creator": "whitemcwizard",
@@ -120,6 +130,16 @@
       "from": "discord",
       "id": 1854992,
       "date": 1761228000000
+    },
+    {
+      "name": "Bocchi the rock Dark",
+      "id": 4446369,
+      "creator": "FIREXDF",
+      "description": "Tested on iPhone 15.\nGot AOD",
+      "file": "wallpapers/Bocchi_the_rock_Dark.tendies",
+      "preview": "previews/gif/Bocchi_the_rock_Dark.gif",
+      "date": 1769626503987,
+      "from": "website"
     },
     {
       "name": "Bowser Jr.",
@@ -332,6 +352,16 @@
       "date": 1761246000000
     },
     {
+      "name": "Frieren and snow man Himmel",
+      "id": 1449054,
+      "creator": "sageofperv",
+      "description": "Frieren and snow man Himmel fromFrieren Beyond Journey's End",
+      "file": "wallpapers/Frieren_and_snow_man_Himmel.tendies",
+      "preview": "previews/gif/Frieren_and_snow_man_Himmel.gif",
+      "date": 1766756132451,
+      "from": "website"
+    },
+    {
       "name": "GBA Animated",
       "id": "0000001",
       "creator": "whoism4xi",
@@ -502,6 +532,16 @@
       "from": "website"
     },
     {
+      "name": "Kira Killer queen ",
+      "id": 2229442,
+      "creator": "Dan",
+      "description": "JJBA Yoshikage Kira",
+      "file": "wallpapers/Kira_Killer_queen_.tendies",
+      "preview": "previews/gif/Kira_Killer_queen_.gif",
+      "date": 1769440618566,
+      "from": "website"
+    },
+    {
       "name": "LBJ",
       "id": 8238177,
       "creator": "l01",
@@ -580,6 +620,26 @@
       "preview": "previews/gif/Manosaba_Gyro.gif",
       "from": "website",
       "date": 1761264000000
+    },
+    {
+      "name": "Megadeth",
+      "id": 7888823,
+      "creator": "lev",
+      "description": "rust in peace",
+      "file": "wallpapers/Megadeth.tendies",
+      "preview": "previews/gif/Megadeth.gif",
+      "date": 1769433021833,
+      "from": "website"
+    },
+    {
+      "name": "Meizu wallpaper effect",
+      "id": 1977653,
+      "creator": "MnhCngNg",
+      "description": "It's only about 80% like meizu's wallpaper effect",
+      "file": "wallpapers/Meizu_wallpaper_effect.tendies",
+      "preview": "previews/gif/Meizu_wallpaper_effect.gif",
+      "date": 1769256013001,
+      "from": "website"
     },
     {
       "name": "Meowl Dancing",
@@ -932,6 +992,16 @@
       "from": "website"
     },
     {
+      "name": "Tartaglia from GI",
+      "id": 9911632,
+      "creator": "l1kus",
+      "description": "Number 11 of the Fatui Harbinger on your wallpaper.",
+      "file": "wallpapers/Tartaglia_from_GI.tendies",
+      "preview": "previews/gif/Tartaglia_from_GI.gif",
+      "date": 1768601554986,
+      "from": "website"
+    },
+    {
       "name": "The Metamorphosis",
       "id": 9479358,
       "creator": "Moroshka239",
@@ -1130,6 +1200,26 @@
       "preview": "previews/gif/google.gif",
       "from": "Discord",
       "date": 1761134400000
+    },
+    {
+      "name": "goth knight girl",
+      "id": 5622086,
+      "creator": "achtorov",
+      "description": "just simple wallpaper",
+      "file": "wallpapers/goth_knight_girl.tendies",
+      "preview": "previews/gif/goth_knight_girl.gif",
+      "date": 1766793459805,
+      "from": "website"
+    },
+    {
+      "name": "happy new year 2026",
+      "id": 2535357,
+      "creator": "namngayxua",
+      "description": "Namngayxua ",
+      "file": "wallpapers/happy_new_year_2026.tendies",
+      "preview": "previews/gif/happy_new_year_2026.gif",
+      "date": 1766846672326,
+      "from": "website"
     },
     {
       "name": "iPadOS ",
