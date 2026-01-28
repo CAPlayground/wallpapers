@@ -32,6 +32,16 @@
       "date": 1766052000000
     },
     {
+      "name": "Apple Park (Maps)",
+      "id": 2084169,
+      "creator": "enkei64",
+      "description": "Animated Apple Park maps wallpaper",
+      "file": "wallpapers/Apple_Park__Maps_.tendies",
+      "preview": "previews/gif/Apple_Park__Maps_.gif",
+      "date": 1769603612463,
+      "from": "website"
+    },
+    {
       "name": "Arch 3D",
       "id": 3645303,
       "creator": "whitemcwizard",
@@ -580,6 +590,16 @@
       "preview": "previews/gif/Manosaba_Gyro.gif",
       "from": "website",
       "date": 1761264000000
+    },
+    {
+      "name": "Megadeth",
+      "id": 7888823,
+      "creator": "lev",
+      "description": "rust in peace",
+      "file": "wallpapers/Megadeth.tendies",
+      "preview": "previews/gif/Megadeth.gif",
+      "date": 1769433021833,
+      "from": "website"
     },
     {
       "name": "Meowl Dancing",
