@@ -25,7 +25,7 @@ jobs:
           node-version: 20
 
       - name: Build bundle
-        run: node scripts/build-wallpapers.js
+        run: node build-wallpapers.js
 
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4
