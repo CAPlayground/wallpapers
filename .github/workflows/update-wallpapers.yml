@@ -9,7 +9,7 @@ on:
     paths:
       - 'jsons/**/*.json'
     branches:
-      - dev
+      - main
   workflow_dispatch:
 
 permissions:
