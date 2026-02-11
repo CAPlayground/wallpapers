@@ -82,6 +82,16 @@
       "from": "website"
     },
     {
+      "name": "Astolfo Comics",
+      "id": 8968602,
+      "creator": "ipastore1",
+      "description": "Astolfo",
+      "file": "wallpapers/Astolfo_Comics.tendies",
+      "preview": "previews/gif/Astolfo_Comics.gif",
+      "date": 1770462642610,
+      "from": "website"
+    },
+    {
       "name": "Autumn City",
       "creator": "gdnnpc",
       "description": "Autumn themed wallpaper with falling leaves",
@@ -312,6 +322,16 @@
       "from": "website"
     },
     {
+      "name": "Divine touch 1.1",
+      "id": 9107929,
+      "creator": "flyingfish2050",
+      "description": "Fixed sleep state",
+      "file": "wallpapers/Divine_touch_1_1.tendies",
+      "preview": "previews/gif/Divine_touch_1_1.gif",
+      "date": 1770542781378,
+      "from": "website"
+    },
+    {
       "name": "Doki Doki Literature Club!",
       "id": 2750255,
       "creator": "Okidoki",
@@ -390,6 +410,16 @@
       "from": "discord",
       "id": 7689347,
       "date": 1761246000000
+    },
+    {
+      "name": "French Lays Everywhere ",
+      "id": 1348652,
+      "creator": "Moyllo",
+      "description": "We love Lay's ! 100% French Lay's Wallpaper made by me human",
+      "file": "wallpapers/French_Lays_Everywhere_.tendies",
+      "preview": "previews/gif/French_Lays_Everywhere_.gif",
+      "date": 1770218846909,
+      "from": "website"
     },
     {
       "name": "Frieren and snow man Himmel",
@@ -882,6 +912,16 @@
       "date": 1765998000000
     },
     {
+      "name": "Porsche Wallpaper REDO",
+      "id": 8028502,
+      "creator": "shadowflop",
+      "description": "porsche wallpaper by shadow :)",
+      "file": "wallpapers/Porsche_Wallpaper_REDO.tendies",
+      "preview": "previews/gif/Porsche_Wallpaper_REDO.gif",
+      "date": 1770685151857,
+      "from": "website"
+    },
+    {
       "name": "REDBubbles",
       "id": 5105437,
       "creator": "ttoff999",
@@ -939,6 +979,16 @@
       "file": "wallpapers/Rubik_s_Cube.tendies",
       "preview": "previews/gif/Rubik_s_Cube.gif",
       "date": 1767544882943,
+      "from": "website"
+    },
+    {
+      "name": "Ryo Yamada",
+      "id": 3626558,
+      "creator": "lumid",
+      "description": "Ryo Yamada wallpaper",
+      "file": "wallpapers/Ryo_Yamada.tendies",
+      "preview": "previews/gif/Ryo_Yamada.gif",
+      "date": 1770321302891,
       "from": "website"
     },
     {
@@ -1129,6 +1179,16 @@
       "file": "wallpapers/Tartaglia_from_GI.tendies",
       "preview": "previews/gif/Tartaglia_from_GI.gif",
       "date": 1768601554986,
+      "from": "website"
+    },
+    {
+      "name": "Tennis V2",
+      "id": 6363645,
+      "creator": "spy_g",
+      "description": "Tennis but better",
+      "file": "wallpapers/Tennis_V2.tendies",
+      "preview": "previews/gif/Tennis_V2.gif",
+      "date": 1770409546549,
       "from": "website"
     },
     {
