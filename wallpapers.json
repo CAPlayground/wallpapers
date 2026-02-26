@@ -42,6 +42,16 @@
       "date": 1766052000000
     },
     {
+      "name": "Apple Intelligence",
+      "id": 1389442,
+      "creator": "VtaUL",
+      "description": "Apple Intelligence",
+      "file": "wallpapers/Apple_Intelligence.tendies",
+      "preview": "previews/gif/Apple_Intelligence.gif",
+      "date": 1771961563043,
+      "from": "website"
+    },
+    {
       "name": "Apple Park (Maps)",
       "id": 2084169,
       "creator": "enkei64",
@@ -152,6 +162,16 @@
       "date": 1761231600000
     },
     {
+      "name": "Big Boss",
+      "id": 1729190,
+      "creator": "Dontie",
+      "description": "Big Boss from MGS3 saluting in the flower field",
+      "file": "wallpapers/Big_Boss.tendies",
+      "preview": "previews/gif/Big_Boss.gif",
+      "date": 1771868595842,
+      "from": "website"
+    },
+    {
       "name": "Black Balls",
       "creator": "spy_g_was_silenced",
       "description": "Floating black balls",
@@ -160,6 +180,16 @@
       "from": "discord",
       "id": 1878216,
       "date": 1761170400000
+    },
+    {
+      "name": "Blackwall",
+      "id": 7138845,
+      "creator": "Sz4bcsi",
+      "description": "A really simple wallpaper from the game Cyberpunk 2077",
+      "file": "wallpapers/Blackwall.tendies",
+      "preview": "previews/gif/Blackwall.gif",
+      "date": 1771768642454,
+      "from": "website"
     },
     {
       "name": "Blasphemous ",
